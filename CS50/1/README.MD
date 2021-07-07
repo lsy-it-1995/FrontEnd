@@ -39,3 +39,10 @@ code ...
 >>>>>
 ```
  
+# Branching
+* git branch
+	* list out branches
+* git checkout -b style
+	* swtich to new branch calls style
+* git merge <branch>
+	
