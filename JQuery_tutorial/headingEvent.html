@@ -1,0 +1,50 @@
+<!doctype html>
+
+<html>
+
+<head>
+<meta charset="UTF-8">
+
+
+<title>asdfdyhhw</title>
+<script src = "js/jquery.js"></script>
+
+<script> 
+	$("document").ready(function(){
+	
+	
+		$("#textBox").on("click", whenMouseIsClicked);
+		$("#textBox").on("mouseleave", whenMouseLeaves);
+		
+		
+		function whenMouseIsClicked(){
+			$("#textBox").html("<h1> you clickme </h1>");
+		}
+		
+		function whenMouseLeaves(){
+			$("#textBox").html("<h1> leaving mee?? </h1>");
+		}
+	});
+	
+</script>
+
+
+<style>
+	#textBox{
+		width: 150px;
+		height: 150px;
+		border:1px solid black;
+		background-color: aliceblue;
+	}
+</style>
+
+</head>
+
+
+<body>
+	<div id="textBox">
+
+	</div>
+</body>
+
+</html>
