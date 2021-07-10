@@ -31,8 +31,11 @@ CREATE TABLE flights{
 ```
 
 ```id, origin, destination, duration``` are ```name```
+
 ```INTEGER, TEXT``` are the ```type```
+
 ```NOT NULL, PRIMARY KEY``` are ```constraint```
+
 ```AUTOINCREMENT``` is ```automatic updated```
 
 * Constraints
