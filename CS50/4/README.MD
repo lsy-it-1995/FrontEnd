@@ -122,3 +122,24 @@ DELETE from flights WHERE destination = "Tokyo";
 	* ORDER BY
 	* GROUP BY
 	* HAVING
+
+# JOIN
+* JOINs
+	* JOIN / INNER JOIN
+	* LEFT OUTER JOIN
+	* RIGHT OUTER JOIN
+	* FULL OUTER JOIN 
+```
+SELECT first, origin, destination FROM flights JOIN passengers ON passengers.flight_id = flights.id
+```
+
+# CREATE INDEX
+```
+CREATE INDEX name_index ON passengers (last);
+```
+
+# SQL Injection
+
+# Shell
+* python manage.py shell
+	* commands
