@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Currency</title>
+        <script>
+            document.addEventListener("DOMContentLoaded", function(){
+                document.querySelector('form').onsubmit = function(){
+                    fetch('http://apilayer.net/api/live?access_key=a8f749052e5cdaebae62c9b53688fef7&currencies=RUB,AFN,EUR,ALL,GBP,GGP,DZD,EUR,AOA,XCD,XCD,ARS,AMD,AWG,SHP,AUD,AZN,BSD,BHD,%20USD&source=USD&format=1')
+                    .then(response => response.json())
+                    .then(data => {
+                        const curreny = document.querySelector('#currency').value.toUpperCase();
+                        const name = 'USD'.concat(curreny);
+                        const rate = data.quotes[name]
+                        if(rate !== undefined){
+                            document.querySelector('#result').innerHTML = `1 USD is euql to ${rate.toFixed(3)} ${curreny}`
+                        }else{
+                            document.querySelector('#result').innerHTML = `NOT VALID`;
+                        }
+                    }).catch(error =>{
+                            console.log(`Error `, error);
+                    });
+                    return false;
+                }
+            });
+            // document.addEventListener('DOMContentLoaded', function(){
+            //     fetch('http://apilayer.net/api/live?access_key=a8f749052e5cdaebae62c9b53688fef7&currencies=EUR,GBP,CAD,PLN,%20TWD&source=USD&format=1')
+            //     .then(response => response.json())
+            //     .then(data => {
+            //         const rate = data.quotes.USDTWD;
+            //         document.querySelector('#result').innerHTML = rate;
+            //     });
+            // });
+        </script>
+    </head>
+    <body>
+        <form>
+            <input id="currency" placeholder="Currency" type="text">
+            <input type="submit" value="Convert">
+        </form>
+        <div id = "result">
+
+        </div>
+    </body>
+</html>
