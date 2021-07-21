@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>1_类的基本知识</title>
+</head>
+<body>
+	<script type="text/javascript" >
+		class Person{
+			constructor(name, age){
+				this.name = name;
+				this.age = age;
+			}
+			speak(){
+				console.log(`I am ${this.name}, and my age is ${this.age}`)
+			}
+		}
+
+		class Student extends Person{
+			constructor(name, age, grade){
+				super(name, age)
+				this.grade = grade
+			}
+			speak(){
+				console.log(`I am ${this.name}, and my age is ${this.age}, and I am currently at ${this.grade}`)
+			}
+		}
+		const p1 = new Student('aa', 13,'10th')
+		console.log(p1)
+		p1.speak()
+	</script>
+</body>
+</html>
