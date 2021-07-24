@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>props基本使用</title>
+</head>
+<body>
+	<!-- 准备好一个“容器” -->
+	<div id="test1"></div>
+	<div id="test2"></div>
+	<div id="test3"></div>
+	
+	<!-- 引入react核心库 -->
+	<script type="text/javascript" src="../js/react.development.js"></script>
+	<!-- 引入react-dom，用于支持react操作DOM -->
+	<script type="text/javascript" src="../js/react-dom.development.js"></script>
+	<!-- 引入babel，用于将jsx转为js -->
+	<script type="text/javascript" src="../js/babel.min.js"></script>
+    <!-- prop type-->
+    <script type="text/javascript" src="../js/prop-types.js"></script>
+	<script type="text/babel">
+		class Person extends React.Component{
+            static propTypes = {
+                name: PropTypes.string.isRequired,
+                sex:PropTypes.string,
+                age:PropTypes.number,
+                speak:PropTypes.func,
+            }
+
+            static defaultProps = {
+                sex: 'neither female nor male',
+                age: 18
+            }
+
+			render(){
+				const {name, sex, age} = this.props
+				return(
+					<ul>
+						<li>Name: {name}</li>
+						<li>Sex: {sex}</li>
+						<li>Age: {age+6}</li>
+					</ul>
+				)
+			}
+		}
+
+        
+
+        const p = {name:"lki", sfrex:"female", age:49}
+        const q = {...p, name:"sad"}
+		ReactDOM.render(<Person name="tom" age={19} speak={speak}/>, document.getElementById('test1'))
+		ReactDOM.render(<Person {...q}/>, document.getElementById('test2'))
+
+		ReactDOM.render(<Person {...p}/>, document.getElementById('test3'))
+        function speak(){
+            console.log('I speak')
+        } 
+	</script>
+</body>
+</html>
