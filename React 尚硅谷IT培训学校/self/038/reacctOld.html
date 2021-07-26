@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>2_不用函数柯里化的实现</title>
+</head>
+<body>
+	<!-- 准备好一个“容器” -->
+	<div id="test"></div>
+	
+	<!-- 引入react核心库 -->
+	<script type="text/javascript" src="../js/react.development.js"></script>
+	<!-- 引入react-dom，用于支持react操作DOM -->
+	<script type="text/javascript" src="../js/react-dom.development.js"></script>
+	<!-- 引入babel，用于将jsx转为js -->
+	<script type="text/javascript" src="../js/babel.min.js"></script>
+
+	<script type="text/babel">
+		//创建组件
+		class Count extends React.Component{
+            constructor(props){
+                super(props)
+                this.state = {count: 0}
+            }
+
+            // state = {count:0}
+            add = ()=>{
+                const{count} = this.state
+                this.setState({count:count+1})
+            }
+            force = () =>{
+                this.forceUpdate()
+            }
+            componentWillMount(){
+                console.log('componentWillMount')
+            }
+            componentDidMount(){
+                console.log('componentDidMount')
+            }
+            componentWillUnmount(){
+                console.log('componentWillUnmount')
+            }
+            shouldComponentUpdate(){
+                console.log('shouldComponentUpdate')
+                return true
+            }
+            componentWillUpdate(){
+                console.log('componentWillUpdate')
+            }
+            componentDidUpdate(){
+                console.log('componentDidUpdate')
+            }
+            render(){
+                const {count} = this.state
+                return (
+                    <div>
+                        <h2>Current Value: {count}</h2>
+                        <button onClick={this.add}>+1</button>
+                        <button onClick={this.force}>Force add</button>
+                    </div>
+                )
+            }
+        }
+        
+        class A extends React.Component{
+            state  = {carName:'merceds'}
+            changeCar = () =>{
+                this.setState({carName:'Toyota'})
+            }
+            render(){
+                return(
+                    <div>
+                        <div> A </div>
+                        <button onClick={this.changeCar}>change</button>
+                        <B carName={this.state.carName}/>
+                    </div>
+                )
+            }
+        }
+
+        class B extends React.Component{
+            componentWillReceiveProps(props){
+                console.log('componentWillReceiveProps', props)
+            }
+            shouldComponentUpdate(){
+                console.log('B')
+                return true
+            }
+            componentWillUpdate(){
+                console.log('B componentWillUpdate')
+            }
+            componentDidUpdate(){
+                console.log('B componentDidUpdate')
+            }
+            render(){
+                return(
+                    <div>B change {this.props.carName}</div>
+
+                )
+            }
+        }
+        ReactDOM.render(<Count />, document.getElementById('test'))
+	</script>
+</body>
+</html>
