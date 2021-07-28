@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
 	<title>2_不用函数柯里化的实现</title>
 </head>
 <body>
@@ -9,13 +11,14 @@
 	<div id="test"></div>
 	
 	<!-- 引入react核心库 -->
-	<script type="text/javascript" src="../js/react.development.js"></script>
+	<script type="text/javascript" src="../js/17.0.1/react.development.js"></script>
 	<!-- 引入react-dom，用于支持react操作DOM -->
-	<script type="text/javascript" src="../js/react-dom.development.js"></script>
+	<script type="text/javascript" src="../js/17.0.1/react-dom.development.js"></script>
 	<!-- 引入babel，用于将jsx转为js -->
-	<script type="text/javascript" src="../js/babel.min.js"></script>
-
+	<script type="text/javascript" src="../js/17.0.1/babel.min.js"></script>
 	<script type="text/babel">
+
+
 		//创建组件
 		class Count extends React.Component{
             constructor(props){
@@ -31,9 +34,14 @@
             force = () =>{
                 this.forceUpdate()
             }
-            componentWillMount(){
-                console.log('componentWillMount')
+            death = () =>{
+                ReactDOM.unmountComponentAtNode(document.getElementById('test'))
             }
+            static getDerivedStateFromProps(){
+                console.log('getDerivedStateFromProps')
+                return {}
+            }
+
             componentDidMount(){
                 console.log('componentDidMount')
             }
@@ -44,9 +52,7 @@
                 console.log('shouldComponentUpdate')
                 return true
             }
-            componentWillUpdate(){
-                console.log('componentWillUpdate')
-            }
+            
             componentDidUpdate(){
                 console.log('componentDidUpdate')
             }
@@ -57,47 +63,12 @@
                         <h2>Current Value: {count}</h2>
                         <button onClick={this.add}>+1</button>
                         <button onClick={this.force}>Force add</button>
+                        <button onClick={this.death}>Kill</button>
                     </div>
                 )
             }
         }
-        
-        class A extends React.Component{
-            state  = {carName:'merceds'}
-            changeCar = () =>{
-                this.setState({carName:'Toyota'})
-            }
-            render(){
-                return(
-                    <div>
-                        <div> A </div>
-                        <button onClick={this.changeCar}>change</button>
-                        <B carName={this.state.carName}/>
-                    </div>
-                )
-            }
-        }
-
-        class B extends React.Component{
-            componentWillReceiveProps(props){
-                console.log('componentWillReceiveProps', props)
-            }
-            shouldComponentUpdate(){
-                console.log('B')
-                return true
-            }
-            componentWillUpdate(){
-                console.log('B componentWillUpdate')
-            }
-            componentDidUpdate(){
-                console.log('B componentDidUpdate')
-            }
-            render(){
-                return(
-                    <div>B change {this.props.carName}</div>
-                )
-            }
-        }
+       
         ReactDOM.render(<Count />, document.getElementById('test'))
 	</script>
 </body>
