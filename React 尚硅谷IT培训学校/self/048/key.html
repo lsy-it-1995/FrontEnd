@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>验证diff算法</title>
+</head>
+<body>
+	<!-- 准备好一个“容器” -->
+	<div id="test"></div>
+	
+	<!-- 引入react核心库 -->
+	<script type="text/javascript" src="../js/17.0.1/react.development.js"></script>
+	<!-- 引入react-dom，用于支持react操作DOM -->
+	<script type="text/javascript" src="../js/17.0.1/react-dom.development.js"></script>
+	<!-- 引入babel，用于将jsx转为js -->
+	<script type="text/javascript" src="../js/17.0.1/babel.min.js"></script>
+
+	<script type="text/babel">
+	
+    class Person extends React.Component{
+        state = {
+            person:[
+                {id:1, name:'lee', age:19},
+                {id:2, name:'li', age:20}
+            ]
+        }
+        add = () =>{
+            const {person} = this.state
+            const p = {id:person.length+1, name:'wang', age:17}
+            this.setState({person:[...person, p]})
+        }
+        render(){
+            return(
+                <div>
+                    <h2>People info</h2>
+                    <button onClick={this.add}>Add person</button>
+                    <ul>
+                        {
+                            this.state.person.map((personObj, index)=>{
+                                return <li key={index}>{personObj.name} ---{personObj.age}</li>
+                            })
+                        }
+                     </ul>
+                    <hr />
+                    <hr />
+                    <ul>
+                        {
+                            this.state.person.map((personObj)=>{
+                                return <li key={personObj.id}>{personObj.name} ---{personObj.age}</li>
+                            })
+                        }
+                    </ul>
+                </div>
+            )
+        }
+    } 
+    ReactDOM.render(<Person />, document.getElementById('test'))
+    </script>
+</body>
+</html>
