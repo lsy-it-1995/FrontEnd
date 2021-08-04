@@ -4,7 +4,7 @@ import PubSub from 'pubsub-js'
 
 export default class Search extends Component {
     
-    search = () =>{
+    search = async() =>{
         const{keyWordElement:{value:keyWord}}  = this
         PubSub.publish('atguigu', {isFirst:false, isLoading:true})
 
@@ -16,10 +16,26 @@ export default class Search extends Component {
         //         PubSub.publish('atguigu', {isLoading:false, err:error.message})
         //     }
         // )
-        fetch(`/api1/search/users?q=${keyWord}`).then(
-            response=>{console.log('success', response);},
-            error =>{console.log('fail', error);}
-        )
+        // fetch(`/api1/search/users?q=${keyWord}`).then(
+        //     response=>{
+        //         console.log('success',);
+        //         return response.json()
+        //     },
+        //     error =>{
+        //         console.log('fail', error);
+        //         return new Promise(()=>{})
+        //     }
+        // ).then(
+        //     response => {console.log('success to receive', response);},
+        //     err => {console.log('fail to receive', err);}
+        // )
+        try {
+            const response = await fetch(`/api1/search/users?q=${keyWord}`)
+            const data = await response.json()
+            PubSub.publish('atguigu', {isLoading:false, users:data.items})
+        } catch (error) {
+            PubSub.publish('atguigu', {isLoading:false, err:error.message})
+        }
     }
     render() {
         return (
