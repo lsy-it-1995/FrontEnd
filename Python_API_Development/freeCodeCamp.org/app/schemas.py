@@ -13,7 +13,6 @@ class PostCreate(PostBase):
     pass
 
 
-
 class UserCreate(BaseModel):
     email: EmailStr
     password: str
@@ -44,6 +43,11 @@ class Token(BaseModel):
 class Token_Data(BaseModel):
     id: Optional[str] = None
 
+class PostOut(BaseModel):
+    Post: Post
+    votes: int
+    class Config:
+        orm_mode = True
 
 class Vote(BaseModel):
     post_id: int

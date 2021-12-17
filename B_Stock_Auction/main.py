@@ -17,10 +17,10 @@ lowes = 1
 almo = 2
 costco = 3
 '''
-URLS_INDEX = 2
+URLS_INDEX = 1
 
-page_begin = 4475
-page_end = 4478
+page_begin = 6123
+page_end = 6132
 
 item_running = []
 item_without_money = []
@@ -40,7 +40,7 @@ def move_manifest(folder_path, market, id):
     shutil.move(path+name, folder_path)
 
 def driver_login(driver):
-    conf = yaml.load(open('C:/Users/garys/Desktop/Web-Crawling/B_Stock_Auction/login.yml'))
+    conf = yaml.load(open('C:/Users/garys/Desktop/WebApps/B_Stock_Auction/login.yml'))
     username = conf['user']['email']
     password = conf['user']['password']
     driver.get(login_URLS[URLS_INDEX])
@@ -54,7 +54,7 @@ def getDate(soup):
     return soup.find('span', id="auction_end_time").getText()
 
 def createFolder(id, market):
-    path = r"C:/Users/garys/Desktop/Web-Crawling/B_Stock_Auction/"+market+"_"+str(id)+"/"
+    path = r"C:/Users/garys/Desktop/WebApps/B_Stock_Auction/"+market+"_"+str(id)+"/"
     os.mkdir(path)
     return path
 
@@ -215,7 +215,7 @@ def scriptDetail(soup, d, page, costco=False):
 def get_pictures(soup):
     ul = soup.find('ul', {"class":"product-image-thumbs"})
     index = 0
-    os.chdir("C:/Users/garys/Desktop/Web-Crawling/B_Stock_Auction/")
+    os.chdir("C:/Users/garys/Desktop/WebApps/B_Stock_Auction/")
     for li in ul.find_all('li'):
         imgLink = li.find('a')
         png_name = str(index)+".jpg"
@@ -228,7 +228,7 @@ def get_pictures(soup):
 def move_picture(path, pic_len):
     for i in range(pic_len):
         png_name = str(i)+".jpg"
-        old_dir = "C:/Users/garys/Desktop/Web-Crawling/B_Stock_Auction/"+png_name
+        old_dir = "C:/Users/garys/Desktop/WebApps/B_Stock_Auction/"+png_name
         shutil.move(old_dir, path)
 
 def start_crawling(page_begin, page_end, market):
@@ -299,11 +299,12 @@ def start_crawling(page_begin, page_end, market):
         except Exception as e:
             print(str(page) + " start_crawling")
             print(e)
+    time.sleep(0.5)
     d["market"] = market
     return d
 
 def run_file(page_start, page_end):
-    os.chdir("C:/Users/garys/Desktop/Web-Crawling/B_Stock_Auction/")
+    os.chdir("C:/Users/garys/Desktop/WebApps/B_Stock_Auction/")
     if URLS_INDEX == 0:
         market = "BESTBUY"
     elif URLS_INDEX == 1:
@@ -315,7 +316,7 @@ def run_file(page_start, page_end):
     data = start_crawling(page_start, page_end, market)
     df = pd.DataFrame(data)
     file_csv = str(page_start) + "_" + str(page_end) +".csv"
-    os.chdir("C:/Users/garys/Desktop/Web-Crawling/B_Stock_Auction/")
+    os.chdir("C:/Users/garys/Desktop/WebApps/B_Stock_Auction/")
     df.to_csv(file_csv, index = False)
 
 run_file(page_begin, page_end)
