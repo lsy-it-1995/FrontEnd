@@ -19,8 +19,8 @@ costco = 3
 '''
 URLS_INDEX = 2
 
-page_begin = 4479
-page_end = 4503
+page_begin = 4509
+page_end = 4511
 
 item_running = []
 item_without_money = []
@@ -31,12 +31,13 @@ def manifest_download(driver):
     button = driver.find_element_by_id("manifest-download-btn-top")
     button.click()
 def move_manifest(folder_path, market, id):
-    path = "C:/Users/garys/Downloads/"
-    extension = 'csv'
+    path = r"C:/Users/garys/Downloads/"
+    extension = '\*csv'
     os.chdir(path)
-    result = glob.glob('*.{}'.format(extension))   
+    files = glob.glob(path+extension)
+    result = max(files, key=os.path.getctime) 
     name = market+"_"+str(id)+".csv"
-    os.rename(result[0], name)
+    os.rename(result, name)
     shutil.move(path+name, folder_path)
 
 def driver_login(driver):
@@ -242,7 +243,6 @@ def start_crawling(page_begin, page_end, market):
     for page in range(page_begin, page_end):
         url = inventory_URLS[URLS_INDEX]+ str(page)
         try:
-            
             driver.get(url)
             html = driver.page_source
             soup = BeautifulSoup(html)
@@ -269,10 +269,11 @@ def start_crawling(page_begin, page_end, market):
                     manifest_found = False
                     print("No manifest Download available")
             else:
-                file_path = file_path_1 + manifest + file_path_2
+                file_path = file_path_1 + manifest + file_path_2    
             if URLS_INDEX == 3:
                 driver.get(file_path)
             pics_len = get_pictures(soup)
+            time.sleep(2)
             move_picture(folder_path, pics_len)
             if manifest_found: 
                 move_manifest(folder_path, market, page)
@@ -299,7 +300,6 @@ def start_crawling(page_begin, page_end, market):
         except Exception as e:
             print(str(page) + " start_crawling")
             print(e)
-    time.sleep(0.5)
     d["market"] = market
     return d
 
