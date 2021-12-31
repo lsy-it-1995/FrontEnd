@@ -20,8 +20,8 @@ public class RunnableLambdaExample {
             System.out.println("Inside Runnable 2");
         };
         Runnable runnableLambdaMultiStatements = () -> {
-            System.out.println("Inside Runnable 3");
-            System.out.println("Inside Runnable 3");
+            System.out.println("Inside Runnable 3.01");
+            System.out.println("Inside Runnable 3.02");
         };
 
         Runnable runnableLambdaSimple = () -> System.out.println("Inside Runnable 3");
@@ -32,7 +32,7 @@ public class RunnableLambdaExample {
         new Thread(new Runnable(){
             @Override
             public void run(){
-                System.out.println("Inside Runnable 3");
+                System.out.println("Inside Runnable 3.1");
             }
         }).start();
         new Thread(() -> System.out.println("Inside Runnable 4")).start();

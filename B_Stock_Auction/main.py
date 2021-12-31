@@ -17,10 +17,10 @@ lowes = 1
 almo = 2
 costco = 3
 '''
-URLS_INDEX = 2
+URLS_INDEX = 
 
-page_begin = 4509
-page_end = 4511
+page_begin = 
+page_end = 
 
 item_running = []
 item_without_money = []
