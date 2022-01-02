@@ -17,10 +17,10 @@ lowes = 1
 almo = 2
 costco = 3
 '''
-URLS_INDEX = 
+URLS_INDEX = 1
 
-page_begin = 
-page_end = 
+page_begin = 6147
+page_end = 6148
 
 item_running = []
 item_without_money = []
@@ -237,7 +237,7 @@ def start_crawling(page_begin, page_end, market):
     
     driver = webdriver.Chrome('C:/Users/garys/Downloads/chromedriver_win32/chromedriver.exe')
     driver_login(driver)
-    decrpytion_failed_list = []
+    # decrpytion_failed_list = []
     
     # for page in decrpytion_failed_list:
     for page in range(page_begin, page_end):
