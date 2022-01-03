@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-public class StreamseXample {
+public class StreamsExample {
     public static void main(String[] args) {
 
         Predicate<Student> studentGradePredicate = (s) -> s.getGradeLevel() >= 3;
