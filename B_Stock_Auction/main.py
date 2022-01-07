@@ -17,10 +17,10 @@ lowes = 1
 almo = 2
 costco = 3
 '''
-URLS_INDEX = 1
+URLS_INDEX = 2
 
-page_begin = 6147
-page_end = 6148
+page_begin = 4518
+page_end = 4525
 
 item_running = []
 item_without_money = []
@@ -56,6 +56,8 @@ def getDate(soup):
 
 def createFolder(id, market):
     path = r"C:/Users/garys/Desktop/WebApps/B_Stock_Auction/"+market+"_"+str(id)+"/"
+    if os.path.exists(path):
+        shutil.rmtree(path)
     os.mkdir(path)
     return path
 
@@ -237,7 +239,7 @@ def start_crawling(page_begin, page_end, market):
     
     driver = webdriver.Chrome('C:/Users/garys/Downloads/chromedriver_win32/chromedriver.exe')
     driver_login(driver)
-    # decrpytion_failed_list = []
+    decrpytion_failed_list = []
     
     # for page in decrpytion_failed_list:
     for page in range(page_begin, page_end):

@@ -1,0 +1,19 @@
+id,date,type,bid_count,number_of_bidders,value_price,current_price,percentage,product_condition,units,city,warehouse,item_location_state,item_location_country,market
+6469,"Mon Jan 3, 2022 3:39:00 PM",Kitchen,19,6,58833,15305.0000,0.2601,Scratch & Dent,45,PolkCity,FL,FL,US,BESTBUY
+6470,"Mon Jan 3, 2022 3:57:00 PM",Kitchen,18,7,70841,17050.0000,0.2407,Scratch & Dent,45,PolkCity,FL,FL,US,BESTBUY
+6471,"Mon Jan 3, 2022 3:54:00 PM",Kitchen,22,7,63648,16250.0000,0.2553,Scratch & Dent,44,PolkCity,FL,FL,US,BESTBUY
+6472,"Mon Jan 3, 2022 3:39:00 PM",Mixed,32,6,69401,19009.0000,0.2739,Scratch & Dent,56,Ronkonkoma,NJ,NY,US,BESTBUY
+6473,"Mon Jan 3, 2022 3:57:00 PM",Kitchen,42,8,53939,16339.0000,0.3029,Scratch & Dent,60,Piscataway,NJ,NJ,US,BESTBUY
+6474,"Mon Jan 3, 2022 3:33:00 PM",Kitchen,15,5,113584,27650.0000,0.2434,Scratch & Dent,63,Tracy,CA,CA,US,BESTBUY
+6475,"Mon Jan 3, 2022 3:27:00 PM",Mixed,21,8,59054,9303.0000,0.1575,Scratch & Dent,42,Aurora,TX,CO,US,BESTBUY
+6476,"Mon Jan 3, 2022 3:15:00 PM",Kitchen,15,6,121429,30051.0000,0.2475,Scratch & Dent,59,Tracy,CA,CA,US,BESTBUY
+6477,"Mon Jan 3, 2022 3:27:00 PM",Mixed,29,11,62940,13250.0000,0.2105,Scratch & Dent,51,Phoenix,CA,AZ,US,BESTBUY
+6480,"Mon Jan 3, 2022 3:03:00 PM",Kitchen,16,11,76325,13626.0000,0.1785,Scratch & Dent,55,MissouriCity,TX,TX,US,BESTBUY
+6481,"Mon Jan 3, 2022 3:00:00 PM",Kitchen,8,6,42080,8625.0000,0.205,Scratch & Dent,27,Piscataway,NJ,NJ,US,BESTBUY
+6482,"Mon Jan 3, 2022 3:39:00 PM",Kitchen,5,3,10221,425.0000,0.0416,Grade C Certified Refurbished,48,Augusta,GA,GA,US,BESTBUY
+6483,"Mon Jan 3, 2022 3:42:00 PM",Kitchen,5,2,24185,2424.0000,0.1002,SALVAGE,108,Augusta,GA,GA,US,BESTBUY
+6484,"Wed Jan 5, 2022 3:00:00 PM",Mixed,30,11,85616,25050.0000,0.2926,Scratch & Dent,49,LosAngeles,CA,CA,US,BESTBUY
+6485,"Wed Jan 5, 2022 3:13:00 PM",Mixed,11,9,61187,14647.0000,0.2394,Scratch & Dent,47,Buford,GA,GA,US,BESTBUY
+6486,"Wed Jan 5, 2022 3:35:00 PM",Mixed,30,9,61767,17349.0000,0.2809,Scratch & Dent,60,Bellingham,NJ,MA,US,BESTBUY
+6487,"Wed Jan 5, 2022 3:32:00 PM",Laundry,35,13,54036,16230.0000,0.3004,Scratch & Dent,54,PolkCity,FL,FL,US,BESTBUY
+6488,"Wed Jan 5, 2022 3:18:00 PM",Kitchen,12,5,60526,14335.0000,0.2368,Scratch & Dent,60,PolkCity,FL,FL,US,BESTBUY
