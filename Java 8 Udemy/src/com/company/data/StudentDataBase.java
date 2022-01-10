@@ -15,7 +15,7 @@ public class StudentDataBase {
 
         Student student = new Student("Adam",2,4.0,"male", Arrays.asList("swimming", "basketball","volleyball"));
 
-        Bike bike = new Bike("Client123", "Client123");
+        Bike bike = new Bike("Client123", "Clientxyz");
         student.setBike(Optional.of(bike));
         return Optional.of(student);
     }

@@ -1,6 +1,0 @@
-id,date,type,bid_count,number_of_bidders,value_price,current_price,percentage,product_condition,units,city,warehouse,item_location_state,item_location_country,market
-6157,"Thu Dec 30, 2021 2:09:00 PM",Mixed,20,6,60968,15000.0000,0.246,Mixed Condition,48,Syracuse,NJ,NY,US,LOWES
-6158,"Thu Dec 30, 2021 1:46:00 PM",Kitchen,37,9,34128,14050.0000,0.4117,New Condition,82,Smyrna,GA,TN,US,LOWES
-6159,"Thu Dec 30, 2021 2:20:00 PM",Laundry,26,7,33292,10850.0000,0.3259,Customer Returns,35,Charlotte,GA,NC,US,LOWES
-6160,"Thu Dec 30, 2021 1:45:00 PM",Kitchen,22,6,37822,9148.0000,0.2419,Customer Returns,24,Charlotte,GA,NC,US,LOWES
-6161,"Thu Dec 30, 2021 2:07:00 PM",Kitchen,29,9,20819,3875.0000,0.1861,Scratch and Dent,61,Groveport,IL,OH,US,LOWES

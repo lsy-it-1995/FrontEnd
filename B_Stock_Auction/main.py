@@ -17,10 +17,19 @@ lowes = 1
 almo = 2
 costco = 3
 '''
-URLS_INDEX = 2
+# URLS_INDEX 
 
-page_begin = 4518
-page_end = 4525
+bestbuy_page_begin = 0
+bestbuy_page_end = 0
+
+lowes_page_begin = 0
+lowes_page_end = 0
+
+almo_page_begin = 4517+1
+almo_page_end = 4520
+
+costco_page_begin = 0
+costco_page_end = 0
 
 item_running = []
 item_without_money = []
@@ -317,11 +326,49 @@ def run_file(page_start, page_end):
         market = "COSTCO"
     data = start_crawling(page_start, page_end, market)
     df = pd.DataFrame(data)
-    file_csv = str(page_start) + "_" + str(page_end) +".csv"
+    file_csv = market + "_" + str(page_start) + "_" + str(page_end) +".csv"
     os.chdir("C:/Users/garys/Desktop/WebApps/B_Stock_Auction/")
     df.to_csv(file_csv, index = False)
 
-run_file(page_begin, page_end)
+URLS_INDEX = 0
+item_running = []
+item_without_money = []
+item_cancel = []
+text_not_found = []
+run_file(bestbuy_page_begin, bestbuy_page_end)
+print("Running items: ", item_running)
+print("No $ items: ", item_without_money)
+print("Cancel items: ", item_cancel)
+print("page broke: ", text_not_found)
+
+item_running = []
+item_without_money = []
+item_cancel = []
+text_not_found = []
+URLS_INDEX = 1
+run_file(lowes_page_begin, lowes_page_end)
+print("Running items: ", item_running)
+print("No $ items: ", item_without_money)
+print("Cancel items: ", item_cancel)
+print("page broke: ", text_not_found)
+
+item_running = []
+item_without_money = []
+item_cancel = []
+text_not_found = []
+URLS_INDEX = 2
+run_file(almo_page_begin, almo_page_end)
+print("Running items: ", item_running)
+print("No $ items: ", item_without_money)
+print("Cancel items: ", item_cancel)
+print("page broke: ", text_not_found)
+
+item_running = []
+item_without_money = []
+item_cancel = []
+text_not_found = []
+URLS_INDEX = 3
+run_file(costco_page_begin, costco_page_end)
 print("Running items: ", item_running)
 print("No $ items: ", item_without_money)
 print("Cancel items: ", item_cancel)
