@@ -17,19 +17,19 @@ lowes = 1
 almo = 2
 costco = 3
 '''
-# URLS_INDEX 
+URLS_INDEX = 0
 
-bestbuy_page_begin = 0
-bestbuy_page_end = 0
+bestbuy_page_begin = 6503+1
+bestbuy_page_end = 6514
 
-lowes_page_begin = 0
-lowes_page_end = 0
+lowes_page_begin = 6169+1
+lowes_page_end = 6175
 
-almo_page_begin = 4517+1
-almo_page_end = 4520
+almo_page_begin = 4531+1
+almo_page_end = 4549
 
-costco_page_begin = 0
-costco_page_end = 0
+costco_page_begin = 0+1
+costco_page_end = 1
 
 item_running = []
 item_without_money = []
