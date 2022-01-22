@@ -19,23 +19,23 @@ costco = 3
 '''
 URLS_INDEX = 0
 
-bestbuy_page_begin = 6503+1
-bestbuy_page_end = 6514
+bestbuy_page_begin = 0+1
+bestbuy_page_end = 1
 
-lowes_page_begin = 6169+1
-lowes_page_end = 6175
+lowes_page_begin = 0+1
+lowes_page_end = 1
 
-almo_page_begin = 4531+1
-almo_page_end = 4549
+almo_page_begin = 4562+1
+almo_page_end = 4567
 
-costco_page_begin = 0+1
-costco_page_end = 1
+costco_page_begin = 14743+1
+costco_page_end = 14840
 
 item_running = []
 item_without_money = []
 item_cancel = []
 text_not_found = []
-
+# driver = webdriver.Chrome('C:/Users/garys/Downloads/chromedriver_win32/chromedriver.exe')
 def manifest_download(driver):
     button = driver.find_element_by_id("manifest-download-btn-top")
     button.click()
@@ -312,9 +312,11 @@ def start_crawling(page_begin, page_end, market):
             print(str(page) + " start_crawling")
             print(e)
     d["market"] = market
+    driver.close()
     return d
 
 def run_file(page_start, page_end):
+    
     os.chdir("C:/Users/garys/Desktop/WebApps/B_Stock_Auction/")
     if URLS_INDEX == 0:
         market = "BESTBUY"
@@ -329,6 +331,7 @@ def run_file(page_start, page_end):
     file_csv = market + "_" + str(page_start) + "_" + str(page_end) +".csv"
     os.chdir("C:/Users/garys/Desktop/WebApps/B_Stock_Auction/")
     df.to_csv(file_csv, index = False)
+    
 
 URLS_INDEX = 0
 item_running = []

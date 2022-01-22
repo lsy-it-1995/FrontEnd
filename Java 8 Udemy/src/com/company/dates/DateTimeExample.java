@@ -58,6 +58,24 @@ public class DateTimeExample {
         System.out.println(localTime.with(ChronoField.HOUR_OF_DAY, 4));
         System.out.println(localTime.withHour(7));
     }
+
+    public static void localDateTimeExample(){
+        LocalDateTime localDateTime = LocalDateTime.now();
+        System.out.println(localDateTime);
+        System.out.println(LocalDateTime.of(1995, 9, 9, 12,23,34,132));
+        LocalDateTime curLocalDateTime = LocalDateTime.of(LocalDate.now(), LocalTime.now());
+        System.out.println(curLocalDateTime);
+        System.out.println(localDateTime.getHour());
+        System.out.println(localDateTime.getMinute());
+        System.out.println(localDateTime.getMonth());
+        System.out.println(localDateTime.getDayOfMonth());
+        System.out.println(localDateTime.get(ChronoField.DAY_OF_MONTH));
+        System.out.println(localDateTime.plusHours(2));
+        LocalDate localDate = LocalDate.of(1995, 9, 9);
+        System.out.println(localDate.atTime(4, 5,6));
+        LocalTime localTime = LocalTime.of(6,4,3);
+        System.out.println(localTime.atDate(localDate));
+    }
     public static void main(String[] args) {
 //        LocalDate localDate = LocalDate.now();
 //        System.out.println(localDate);
@@ -66,6 +84,7 @@ public class DateTimeExample {
 //        LocalDateTime localDateTime = LocalDateTime.now();
 //        System.out.println(localDateTime);
 //        localDateExample();
-        localTimeExample();
+//        localTimeExample();
+        localDateTimeExample();
     }
 }
