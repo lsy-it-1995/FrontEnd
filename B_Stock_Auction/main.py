@@ -19,17 +19,17 @@ costco = 3
 '''
 URLS_INDEX = 0
 
-bestbuy_page_begin = 0+1
-bestbuy_page_end = 1
+bestbuy_page_begin = 6530+1
+bestbuy_page_end = 6573
 
-lowes_page_begin = 0+1
-lowes_page_end = 1
+lowes_page_begin = 6176+1
+lowes_page_end = 6196
 
 almo_page_begin = 4562+1
-almo_page_end = 4567
+almo_page_end = 4578
 
-costco_page_begin = 14743+1
-costco_page_end = 14840
+costco_page_begin = 14825+1
+costco_page_end = 15043
 
 item_running = []
 item_without_money = []
@@ -102,10 +102,11 @@ def getTitle(soup):
     condition = ""
     units = ""
     type = ""
-    title = title.replace(", MSRP", "")
-    title = title.replace(", Ext. Retail", "")
-    title = title.replace(", Retail", "")
-    title = title.replace("Retail", "")
+    title = title.lower()
+    title = title.replace(", msrp", "")
+    title = title.replace(", ext. retail", "")
+    title = title.replace(", retail", "")
+    title = title.replace("retail", "")
     newtitle = ""
     invalid = False
     
@@ -117,14 +118,14 @@ def getTitle(soup):
         if not invalid:
             newtitle += val
     newtitle = newtitle.replace(")", "")
-    if newtitle.find("Units"):
-        newtitle = newtitle.replace("Units", "").strip()
-    elif newtitle.find("Unit"):
-        newtitle = newtitle.replace("Unit", "").strip()
-    elif newtitle.find("Sets"):
-        newtitle = newtitle.replace("Sets", "").strip()
-    elif newtitle.find("Set"):
-        newtitle = newtitle.replace("Set", "").strip()
+    if newtitle.find("units"):
+        newtitle = newtitle.replace("units", "").strip()
+    elif newtitle.find("unit"):
+        newtitle = newtitle.replace("unit", "").strip()
+    elif newtitle.find("sets"):
+        newtitle = newtitle.replace("sets", "").strip()
+    elif newtitle.find("set"):
+        newtitle = newtitle.replace("set", "").strip()
     newtitle = newtitle.replace(", ,", ",")
     newtitle = newtitle.replace("  ", " ")
     newtitle = newtitle.replace(" ","") 
@@ -169,8 +170,8 @@ def getTitle(soup):
     price = price.replace(",","")
     units = units.replace(",","")
     machine = type.replace(",","")
-    kitchen = ['Refrigerators','Microwave','Dishwashers', 'Range','Cooktop','Freezers']
-    laundry = ['Washers', 'Dryers', 'Pedestals', 'Stackable', 'Styler','WashTower']
+    kitchen = ['refrigerators','microwave','dishwashers', 'range','cooktop','freezers']
+    laundry = ['washers', 'dryers', 'pedestals', 'stackable', 'styler','washTower']
     iskitchen = False
     isLaundry = False
     for k in kitchen:
@@ -224,6 +225,7 @@ def scriptDetail(soup, d, page, costco=False):
             print(e)
             print("scriptDetail")
     return d
+
 def get_pictures(soup):
     ul = soup.find('ul', {"class":"product-image-thumbs"})
     index = 0
