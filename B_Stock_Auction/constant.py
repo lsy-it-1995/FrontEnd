@@ -16,13 +16,13 @@ file_path_2 = "&file_type=csv"
 file_path = ""
 
 states = {
-    'CA' : ['CA', 'NV', 'UT', 'AZ'],
-    'WA' : ['WA', 'OR', 'ID', 'MT'],
-    'TX' : ['CO', 'NMa', 'TX', 'KS','OK','AR','LA'],
-    'IL' : ['MN', 'IA', 'NE', 'MO', 'WI', 'IL', 'MI', 'IN', 'KY', 'OH'],
-    'GA' : ['MS', 'TN', 'AL', 'GA', 'SC', 'NC'],
-    'FL' : ['FL'],
-    'NJ' : ['ME', 'VT', 'NH', 'MA', 'CT', 'RI', 'NY', 'NJ', 'PA', 'MD', 'DE', 'WV', 'VA']
+    'CA' : ['ca', 'nv', 'ut', 'az'],
+    'WA' : ['wa', 'or', 'id', 'mt'],
+    'TX' : ['co', 'nm', 'tx', 'ks', 'ok', 'ar', 'la'],
+    'IL' : ['mn', 'ia', 'ne', 'mo', 'wi', 'il', 'mi', 'in', 'ky', 'oh'],
+    'GA' : ['ms', 'tn', 'al', 'ga', 'sc', 'nc'],
+    'FL' : ['fl'],
+    'NJ' : ['me', 'vt', 'nh', 'ma', 'ct', 'ri', 'ny', 'nj', 'pa', 'md', 'de', 'wv', 'va']
 }
 
 titles = [

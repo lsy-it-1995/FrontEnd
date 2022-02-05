@@ -19,23 +19,22 @@ costco = 3
 '''
 URLS_INDEX = 0
 
-bestbuy_page_begin = 6530+1
-bestbuy_page_end = 6573
+bestbuy_page_begin = 6571+1
+bestbuy_page_end = 6605
 
-lowes_page_begin = 6176+1
-lowes_page_end = 6196
+lowes_page_begin = 6195+1
+lowes_page_end = 6202
 
-almo_page_begin = 4562+1
-almo_page_end = 4578
+almo_page_begin = 4577+1
+almo_page_end = 4587
 
-costco_page_begin = 14825+1
-costco_page_end = 15043
+costco_page_begin = 15034+1
+costco_page_end = 15178
 
 item_running = []
 item_without_money = []
 item_cancel = []
 text_not_found = []
-# driver = webdriver.Chrome('C:/Users/garys/Downloads/chromedriver_win32/chromedriver.exe')
 def manifest_download(driver):
     button = driver.find_element_by_id("manifest-download-btn-top")
     button.click()
