@@ -19,23 +19,25 @@ costco = 3
 '''
 URLS_INDEX = 0
 
-bestbuy_page_begin = 6637+1
-bestbuy_page_end = 
+bestbuy_page_begin =6925+1
+bestbuy_page_end = 6930
 
-lowes_page_begin = 6219+1
-lowes_page_end = 
+lowes_page_begin = 6329+1
+lowes_page_end = 6330
 
-almo_page_begin = 4604+1
-almo_page_end = 
+almo_page_begin = 4703+1
+almo_page_end = 4703
 
-costco_page_begin = 15445+1
-costco_page_end = 
+costco_page_begin = 17217+1
+costco_page_end = 17217
 
 item_running = []
-item_without_money = []
+item_without_money = [] 
 item_cancel = []
 text_not_found = []
-def manifest_download(driver):
+
+def manifest_download(driver, path):
+    os.chdir(path)
     button = driver.find_element_by_id("manifest-download-btn-top")
     button.click()
 def move_manifest(folder_path, market, id):
@@ -198,7 +200,7 @@ def create_column_title(column_titles):
 def auction_time_name(soup):
     return soup.find('span', id="auction_time_remaining").getText().strip()
 
-def scriptDetail(soup, d, page, costco=False):
+def scriptDetail(soup, d, page):
     names = soup.find_all('script')
     if not names:
         text_not_found.append(page)
@@ -225,10 +227,10 @@ def scriptDetail(soup, d, page, costco=False):
             print("scriptDetail")
     return d
 
-def get_pictures(soup):
+def get_pictures(soup, path):
     ul = soup.find('ul', {"class":"product-image-thumbs"})
     index = 0
-    os.chdir("C:/Users/garys/Desktop/WebApps/B_Stock_Auction/")
+    os.chdir(path)
     for li in ul.find_all('li'):
         imgLink = li.find('a')
         png_name = str(index)+".jpg"
@@ -246,7 +248,6 @@ def move_picture(path, pic_len):
 
 def start_crawling(page_begin, page_end, market):
     d = create_column_title(titles)
-    
     driver = webdriver.Chrome('C:/Users/garys/Downloads/chromedriver_win32/chromedriver.exe')
     driver_login(driver)
     decrpytion_failed_list = []
@@ -273,10 +274,11 @@ def start_crawling(page_begin, page_end, market):
                 item_without_money.append(page)
                 continue
             folder_path = createFolder(page, market)
+            os.chdir(folder_path)
             manifest_found = True
             if URLS_INDEX != 3:
                 try:
-                    manifest_download(driver)
+                    manifest_download(driver, folder_path)
                 except Exception as e:
                     manifest_found = False
                     print("No manifest Download available")
@@ -284,9 +286,8 @@ def start_crawling(page_begin, page_end, market):
                 file_path = file_path_1 + manifest + file_path_2    
             if URLS_INDEX == 3:
                 driver.get(file_path)
-            pics_len = get_pictures(soup)
+            pics_len = get_pictures(soup, folder_path)
             time.sleep(2)
-            move_picture(folder_path, pics_len)
             if manifest_found: 
                 move_manifest(folder_path, market, page)
             found = False

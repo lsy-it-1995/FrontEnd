@@ -1,0 +1,1014 @@
+CDT845P3ND1	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\45 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+CDT800P2NS1	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\48 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready \ Est Drop Date = JAN-22
+CDT805P2NS1	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\45 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+CDT845P2NS1	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\45 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+CDT875P2NS1	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\39 dBA\16 Place Settings\ENERGY STAR® Qualified \ Built in WIFI
+CDT845M5NS5	Stainless Tub\Top Cntrl\Through Hndl\Long Dr Glass\45 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+CDT875M5NS5	Stainless Tub\Top Cntrl\Through Hndl\Long Dr Glass\39 dBA\16 Place Settings\ENERGY STAR® Qualified \ Built in WIFI
+CDT845P4NW2	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\45 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+CDT875P4NW2	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\39 dBA\16 Place Settings\ENERGY STAR® Qualified \ Built in WIFI
+CGP70302NS1	30" Width\Gas Cktp\5 Burners\18,000 BTU Power Boil Burner\Cast Iron Griddle Incl\ADA Compliant \ Not Connectable
+CGP95302MS1	30" Width\Gas Cktp\5 Burners\20,000 BTU Tri-Ring Power Boil Burner\Cast Iron Griddle Incl\ADA Compliant \ Not Connectable
+CHP95302MSS	30" Width\Induction Cktp\4 Burners\Tch Cntrl\11" 3,700W Induction Element\Sync Burners\Gourmet Guide Ckg, Hestan Pan Incl\ADA Compliant \ ConnectPlus Included
+CEP90301NBB	30" Width\Radiant Cktp\5 Burners\Tch Cntrl\3,000W Tri-Ring Power Boil Element\Sync Burners\Griddle Incl\ADA Compliant \ RJ45 Newfi only
+CEP90302NSS	30" Width\Radiant Cktp\5 Burners\Tch Cntrl\3,000W Tri-Ring Power Boil Element\Sync Burners\Griddle Incl\ADA Compliant \ RJ45 Newfi only
+CGP70362NS1	30" Width\Gas Cktp\5 Burners\18,000 BTU Power Boil Burner\Cast Iron Griddle Incl\ADA Compliant \ Not Connectable
+CGP95362MS1	36" Width\Gas Cktp\5 Burners\20,000 BTU Tri-Ring Power Boil Burner\Cast Iron Griddle Incl\ADA Compliant \ Not Connectable
+CHP95362MSS	36" Width\Induction Cktp\5 Burners\Tch Cntrl\11" 3,700W Induction Element\Sync Burners\Gourmet Guide Ckg, Hestan Pan Incl\ADA Compliant \ ConnectPlus Included
+CEP90361NBB	36" Width\Radiant Cktp\5 Burners\Tch Cntrl\2x Tri-Ring Power Boil Elements\Sync Burners\Griddle Incl\ADA Compliant \ RJ45 Newfi only
+CEP90362NSS	36" Width\Radiant Cktp\5 Burners\Tch Cntrl\2x Tri-Ring Power Boil Elements\Sync Burners\Griddle Incl\ADA Compliant \ RJ45 Newfi only
+CGU366P3TD1	Not Connectable
+CGU366P2TS1	Not Connectable
+CGU366P4TW2	Not Connectable
+CGU486P3TD1	Not Connectable
+CGU486P2TS1	Not Connectable
+CGU486P4TW2	Not Connectable
+CWB713P2NS1	975W\1.7 CuFt\Conv\Stm Cook\B/I \ Not Connectable
+CEB515P3NDS	1,000W\1.5 CuFt\Conv\Scan-to-Cook\ADA Compliant \ Built in WIFI
+CEB515M2NS5	1,000W\1.5 CuFt\Conv\Scan-to-Cook\ADA Compliant \ Built in WIFI
+CEB515P2NSS	1,000W\1.5 CuFt\Conv\Scan-to-Cook\ADA Compliant \ Built in WIFI
+CEB515P4NWM	1,000W\1.5 CuFt\Conv\Scan-to-Cook\ADA Compliant \ Built in WIFI
+CWL112P2RS1	1,000W\Sensor\Time Defrost\ADA Compliant \ Not Connectable
+CWL112P3RD5	1,000W\Sensor\Time Defrost\ADA Compliant \ Not Connectable
+CWL112P4RW5	1,000W\Sensor\Time Defrost\ADA Compliant \ Not Connectable
+CVM519P2PS1	1,000W\1.9 CuFt\300 CFM\Sensor\Stm Cook \ Not Connectable
+CVM521P2MS1	1,000W\2.1 CuFt\400 CFM\Sensor\Stm\Chef Connect \ Not Connectable
+CVM721M2NS5	1,050W\2.1 CuFt\400 CFM\Sensor\Stm\Chef Connect \ Built in WIFI with Bluetooth
+CVM517P3RD1	950W\1.7 CuFt\300 CFM\Conv \ Not Connectable
+CVM517P2RS1	950W\1.7 CuFt\300 CFM\Conv \ Not Connectable
+CVM517P4RW2	950W\1.7 CuFt\300 CFM\Conv \ Not Connectable
+CES700P3MD1	30" S/I\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+CES700P2MS1	30" S/I\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+CES750P2MS1	30" S/I\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Dbl Oven\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+CES700M2NS5	30" S/I\Radiant\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\True European Conv w/ Precise Air\Slf Cln Rcks\ADA Compliant \ Built in WIFI with Bluetooth \ Est Drop Date = APR-22
+CES750M2NS5	30" S/I\Radiant\Slf Cln w/ Stm Cln Opt\Dbl Oven\True European Conv w/ Precise Air\Slf Cln Rcks\ADA Compliant \ Built in WIFI with Bluetooth \ Est Drop Date = APR-22
+CES700P4MW2	30" S/I\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+CES750P4MW2	30" S/I\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Dbl Oven\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+CGS750P2MS1	30" S/I\Gas RG\6 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle\Dbl Oven\True European Conv\ADA Compliant \ Built in WIFI
+CGS750P4MW2	30" S/I\Gas RG\6 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle\Dbl Oven\True European Conv\ADA Compliant \ Built in WIFI
+C2S950P3MD1	30" S/I\Dual Fuel RG\6 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle\Dbl Oven\True European Conv w/ Precise Air\ADA Compliant \ Built in WIFI
+C2S950P2MS1	30" S/I\Dual Fuel RG\6 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle\Dbl Oven\True European Conv w/ Precise Air\ADA Compliant \ Built in WIFI
+C2S950P4MW2	30" S/I\Dual Fuel RG\6 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle\Dbl Oven\True European Conv w/ Precise Air\ADA Compliant \ Built in WIFI
+CHS950P3MD1	30" S/I\Induction RG\5 Element\Slf Cln w/ Stm Cln Opt\Dbl Oven\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+CHS950P2MS1	30" S/I\Induction RG\5 Element\Slf Cln w/ Stm Cln Opt\Dbl Oven\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+CHS950P4MW2	30" S/I\Induction RG\5 Element\Slf Cln w/ Stm Cln Opt\Dbl Oven\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+C2S900P2MS1	30" S/I\Dual Fuel RG\6 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle\Sgl Oven w/ Wrmg Drwr\True European Conv w/ Precise Air\ADA Compliant \ Built in WIFI
+CGS700P3MD1	30" S/I\Gas RG\6 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle\Sgl Oven w/ Storage Drwr\True European Conv\ADA Compliant \ Built in WIFI
+CGB500P2MS1	30" FS\Gas RG\5 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle/Grill\Sgl Oven w/ Storage Drwr\True European Conv\ADA Compliant \ Built in WIFI
+CGS700P2MS1	30" S/I\Gas RG\6 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle\Sgl Oven w/ Storage Drwr\True European Conv\ADA Compliant \ Built in WIFI
+CGS700M2NS5	30" S/I\Gas RG\6 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle\Sgl Oven w/ Storage Drwr\True European Conv\ADA Compliant \ Built in WIFI
+CGS700P4MW2	30" S/I\Gas RG\6 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle\Sgl Oven w/ Storage Drwr\True European Conv\ADA Compliant \ Built in WIFI
+CHS900P2MS1	30" S/I\Induction RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Wrmg Drwr\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+CHS90XP2MS1	30" S/I\Induction RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Wrmg Drwr\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+CHS90XM2NS5	30" S/I\Induction\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI with Bluetooth
+CHS900P4MW2	30" S/I\Induction RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Wrmg Drwr\True European Conv w/ Precise Air\Slf Cln Roller Rck \ADA Compliant \ Built in WIFI
+CGY366P3TD1	Built in WIFI
+CGY366P2TS1	Built in WIFI
+CGY366P4TW2	Built in WIFI
+C2Y366P3TD1	Built in WIFI
+C2Y366P2TS1	Built in WIFI
+C2Y366P4TW2	Built in WIFI
+C2Y486P3TD1	Built in WIFI
+C2Y486P2TS1	Built in WIFI
+C2Y486P4TW2	Built in WIFI
+CSB913P3ND1	950W\1.7 CuFt\Advantium\Sensor\WiFi Connect \ Built in WIFI
+CSB912P2NS1	950W\1.7 CuFt\Advantium\Sensor\WiFi Connect \ Built in WIFI
+CSB913P2NS1	950W\1.7 CuFt\Advantium\Sensor\WiFi Connect \ Built in WIFI
+CSB923P2NS1	950W\1.7 CuFt\Advantium\Sensor\WiFi Connect \ Built in WIFI
+CSB913M2NS5	950W\1.7 CuFt\Advantium\Sensor\WiFi Connect \ Built in WIFI
+CSB913P4NW2	950W\1.7 CuFt\Advantium\Sensor\WiFi Connect \ Built in WIFI
+CSB923P4NW2	950W\1.7 CuFt\Advantium\Sensor\WiFi Connect \ Built in WIFI
+CVW73013MDS	30" Chimney Hood\350 CFM\Halogen Lighting\Convertible \ Not Connectable \ Est Drop Date = JAN-22
+CVW93043PDS	Built in WIFI with Bluetooth
+CVW73012MSS	30" Chimney Hood\350 CFM\Halogen Lighting\Convertible \ Not Connectable
+CVW73013MTS	Not Connectable \ Est Drop Date = JAN-22
+CVW73014MWM	30" Chimney Hood\350 CFM\Halogen Lighting\Convertible \ Not Connectable
+CVW93044PWM	Built in WIFI with Bluetooth
+CVW73613MDS	36" Chimney Hood\350 CFM\Halogen Lighting\Convertible \ Not Connectable \ Est Drop Date = JAN-22
+CVW93643PDS	Built in WIFI with Bluetooth
+CVW73612MSS	36" Chimney Hood\350 CFM\Halogen Lighting\Convertible \ Not Connectable
+CVW73613MTS	Not Connectable \ Est Drop Date = JAN-22
+CVW73614MWM	36" Chimney Hood\350 CFM\Halogen Lighting\Convertible \ Not Connectable
+CVW93644PWM	Built in WIFI with Bluetooth
+CKS70DP2NS1	27" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\1x Roller Rck, Meat Prb\ADA Compliant \ Built in WIFI
+CKD70DP2NS1	27" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb \ Built in WIFI
+CTD90FP3ND1	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\4x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry \ Built in WIFI
+CTD90FP2NS1	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\4x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry \ Built in WIFI
+CTD90FP4NW2	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\4x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry \ Built in WIFI
+CTS90FP3ND1	30" Width\Sgl Elec French-Dr\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+CTS90FP2NS1	30" Width\Sgl Elec French-Dr\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+CTS90FP4NW2	30" Width\Sgl Elec French-Dr\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+CTC912P2NS1	30" Width\Slf & Stm Cln \ Not Connectable
+CTS90DP3ND1	30" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry, Stm-Assist\ADA Compliant \ Built in WIFI
+CTD90DP3ND1	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\4x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry, Stm-Assist \ Built in WIFI
+CTS70DP2NS1	30" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\1x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+CMB903P2NS1	Not Connectable
+CTS90DP2NS1	30" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\1x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry, Stm-Assist\ADA Compliant \ Built in WIFI
+CTD70DP2NS1	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry \ Built in WIFI
+CTD90DP2NS1	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\4x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry, Stm-Assist \ Built in WIFI
+CTS70DM2NS5	30" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\1x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+CTS92DM2NS5	30" Width\Slf & Stm Cln \ Built in WIFI
+CTS90DM2NS5	30" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb, Voice-Act Dr\Prec Ckg, Hot-Air Fry, Stm-Assist\ADA Compliant \ Built in WIFI
+CTD70DM2NS5	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry \ Built in WIFI
+CTD90DM2NS5	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\4x Roller Rck, Meat Prb, Voice-Act Dr\Prec Ckg, Hot-Air Fry, Stm-Assist \ Built in WIFI
+CTS90DP4NW2	30" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry, Stm-Assist\ADA Compliant \ Built in WIFI
+CTD90DP4NW2	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\4x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry, Stm-Assist \ Built in WIFI
+CTW900P3PD1	Not Connectable
+CTW900P2PS1	Not Connectable
+CTW900P4PW2	ADA Compliant \ Not Connectable
+CFE28TP3MD1	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\Hot Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CVE28DP3ND1	36" Std-Depth\28.0 CuFt\4 Dr French Dr\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ Built in WIFI
+CFE28TP2MS1	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\Hot Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CFE28UP2MS1	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\K-Cup\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CVE28DP2NS1	36" Std-Depth\28.0 CuFt\4 Dr French Dr\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ Built in WIFI
+CVE28DM5NS5	36" Std-Depth\28.0 CuFt\4 Dr French Dr\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ Built in WIFI
+CQE28DM5NS5	36" Std-Depth\28.0 CuFt\4 Dr French Quad\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ Built in WIFI
+CFE28TP4MW2	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\Hot Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CVE28DP4NW2	36" Std-Depth\28.0 CuFt\4 Dr French Dr\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ Built in WIFI
+CDB36LP2PS1	Built in WIFI
+CDB36RP2PS1	Built in WIFI
+CSB42WP2NS1	B/I\25.1 CuFt\SS Extr,LED Lighting\Factory Inst IM\MWF Filter \ Built in WIFI
+CSB42YP2NS1	B/I\24.5 CuFt\SS Extr,LED Lighting\Extrnl Ice & Water Dispnr w/Auto-Fill\MWF Filter \ Built in WIFI
+CSB48WP2NS1	B/I\29.6 CuFt\SS Extr,LED Lighting\Factory Inst IM\MWF Filter \ Built in WIFI
+CSB48YP2NS1	B/I\28.7 CuFt\SS Extr,LED Lighting\Extrnl Ice & Water Dispnr w/Auto-Fill\MWF Filter \ Built in WIFI
+CWE19SP3ND1	33" Counter-Depth\19.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+CWE23SP3MD1	36" Counter-Depth\23.0 CuFt\3 Dr French\Internal Dispnr\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ Built in WIFI
+CWE19SP2NS1	33" Counter-Depth\19.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+CWE23SP2MS1	36" Counter-Depth\23.0 CuFt\3 Dr French\Internal Dispnr\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ Built in WIFI
+CWE23SP4MW2	36" Counter-Depth\23.0 CuFt\3 Dr French\Internal Dispnr\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ Built in WIFI
+CWE19SP4NW2	33" Counter-Depth\19.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+CYE22TP3MD1	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\Hot Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CYE22TP2MS1	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\Hot Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CYE22UP2MS1	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\K-Cup\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CYE22TP4MW2	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\Hot Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CZS22MP2NS1	Counter-Depth\22.0 CuFt\36" Width\Hidden Hinge\Extrnl Dispnr\XWF Filter \ Not Connectable
+CDE06RP3ND1	24" Width\B/I Capable\5.7 CuFt\Dual-Drwr \ Not Connectable
+CDE06RP2NS1	24" Width\B/I Capable\5.7 CuFt\Dual-Drwr \ Not Connectable
+CDE06RP4NW2	Not Connectable
+CCP06BP3PD1	24" Width\B/I Capable\Elec Cntrls\126 Cans,14 Bottles\QuickSpace™ Shelf\LED Light Wall\Magnum Bottle Shlvng\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CCP06DP3PD1	24" Width\B/I Capable\46 Bottles\Dual Zone\LED Light Wall\Magnum Bottle Shlvng\ADA Compliant \ Built in WIFI
+CCP06BP2PS1	24" Width\B/I Capable\Elec Cntrls\126 Cans,14 Bottles\QuickSpace™ Shelf\LED Light Wall\Magnum Bottle Shlvng\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CCP06DP2PS1	24" Width\B/I Capable\46 Bottles\Dual Zone\LED Light Wall\Magnum Bottle Shlvng\ADA Compliant \ Built in WIFI
+CCR06BM2PS5	24" Width\B/I Capable\Elec Cntrls\126 Cans,14 Bottles\QuickSpace™ Shelf\LED Light Wall\Magnum Bottle Shlvng\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CCR06DM2PS5	24" Width\B/I Capable\46 Bottles\Dual Zone\LED Light Wall\Magnum Bottle Shlvng\ADA Compliant \ Built in WIFI
+CCP06BP4PW2	24" Width\B/I Capable\Elec Cntrls\126 Cans,14 Bottles\QuickSpace™ Shelf\LED Light Wall\Magnum Bottle Shlvng\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+CCP06DP4PW2	24" Width\B/I Capable\46 Bottles\Dual Zone\LED Light Wall\Magnum Bottle Shlvng\ADA Compliant \ Built in WIFI
+CVW73013MWM	Cafe \ Not Connectable \ Est Drop Date = JAN-22
+CVW73613MWM	Cafe \ Not Connectable \ Est Drop Date = JAN-22
+PDT145SGLBB	18" Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\47 dBA\8 Place Settings\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+PDT145SSLSS	18" Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\47 dBA\8 Place Settings\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+PDT145SGLWW	18" Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\47 dBA\8 Place Settings\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+PDT715SMNES	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\45 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+PDP715SYNFS	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\45 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+PDT715SYNFS	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\45 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+PDP755SYRFS	Stainless Tub\24" Width\Pocket Hndl\3 Rcks\16 Place Settings\ENERGY STAR® Qualified \ Built in WIFI
+PDT755SYRFS	Stainless Tub\24" Width\Through Hndl\3 Rcks\16 Place Settings\ENERGY STAR® Qualified \ Built in WIFI
+PDT775SYNFS	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\42 dBA\16 Place Settings\ENERGY STAR® Qualified \ Built in WIFI
+PDT785SYNFS	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\39 dBA\16 Place Settings\ENERGY STAR® Qualified \ Built in WIFI
+PDP715SBNTS	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\45 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+PDT715SBNTS	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\45 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+PDT785SBNTS	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\39 dBA\16 Place Settings\ENERGY STAR® Qualified \ Built in WIFI
+PFD95ESPTDS	28" Width\7.8 CuFt\Stm Sanitize\Washer Link\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI with Bluetooth
+PFD95GSPTDS	28" Width\7.8 CuFt\Stm Sanitize\Washer Link\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI with Bluetooth
+PFW950SPTDS	28" Width\5.3 CuFt\Stm\UltraFresh Sensor Vent w/  OdorBlock\34" Depth\SmartDispenseTM\AI w/ Floor Protect\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI with Bluetooth
+PTW605BPRDG	28" Width\4.9 CuFt\Stainless Steel Tub\Heavy Duty Agitator\Tide Pods™ Dispense\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW605BSRWS	28" Width\4.9 CuFt\Stainless Steel Tub\Heavy Duty Agitator\Tide Pods™ Dispense\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW600BPRDG	28" Width\5.0 CuFt\Stainless Steel Tub\Infusor\Tide Pods™ Dispense\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW600BSRWS	28" Width\5.0 CuFt\Stainless Steel Tub\Infusor\Tide Pods™ Dispense\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW705BPTDG	28" Width\5.2 CuFt\Stainless Steel Tub\Heavy Duty Agitator\Tide Pods™ Dispense\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW905BPTDG	28" Width\5.2 CuFt\Stainless Steel Tub\Heavy Duty Agitator\SmartDispense™\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW905BPTDS	28" Width\5.2 CuFt\Stainless Steel Tub\Heavy Duty Agitator\SmartDispense™\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW905BPTRS	28" Width\5.2 CuFt\Stainless Steel Tub\Heavy Duty Agitator\SmartDispense™\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW705BSTWS	28" Width\5.2 CuFt\Stainless Steel Tub\Heavy Duty Agitator\Tide Pods™ Dispense\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW700BPTDG	28" Width\5.2 CuFt\Stainless Steel Tub\Infusor\Tide Pods™ Dispense\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW900BPTDG	28" Width\5.2 CuFt\Stainless Steel Tub\Infusor\SmartDispense™\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW900BPTDS	28" Width\5.2 CuFt\Stainless Steel Tub\Infusor\SmartDispense™\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW900BPTRS	28" Width\5.2 CuFt\Stainless Steel Tub\Infusor\SmartDispense™\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTW700BSTWS	28" Width\5.2 CuFt\Stainless Steel Tub\Infusor\Tide Pods™ Dispense\27" Depth\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD60EBPRDG	27" Width\7.4 CuFt\Washer Link\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD70EBPTDG	27" Width\7.4 CuFt\Stm\Detangle Assist\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD60GBPRDG	27" Width\7.4 CuFt\Long Vent (up to 120 Ft)\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD70GBPTDG	27" Width\7.4 CuFt\Stm\Detangle Assist\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD90EBPTDG	27" Width\7.4 CuFt\Stm\Detangle Assist\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD90GBPTDG	27" Width\7.4 CuFt\Stm\Detangle Assist\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD90EBPTRS	27" Width\7.4 CuFt\Stm\Detangle Assist\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD90GBPTRS	27" Width\7.4 CuFt\Stm\Detangle Assist\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD60EBSRWS	27" Width\7.4 CuFt\Washer Link\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD70EBSTWS	27" Width\7.4 CuFt\Stm\Detangle Assist\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD60GBSRWS	27" Width\7.4 CuFt\Long Vent (up to 120 Ft)\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PTD70GBSTWS	27" Width\7.4 CuFt\Stm\Detangle Assist\31" Depth\HE Sensor Dry\ENERGY STAR® Qualified \ Built in WIFI with Bluetooth
+PHP9030DJBB	30" Width\Induction Cktp\4 Burners\Tch Cntrl\11" 3,700W Induction Element\Sync Burners\Kitchen Timer\ADA Compliant \ RJ45 Newfi only
+PHP9030SJSS	30" Width\Induction Cktp\4 Burners\Tch Cntrl\11" 3,700W Induction Element\Sync Burners\Kitchen Timer\ADA Compliant \ RJ45 Newfi only
+PHP9030BMTS	30" Width\Induction Cktp\4 Burners\Tch Cntrl\11" 3,700W Induction Element\Sync Burners\Kitchen Timer\ADA Compliant \ RJ45 Newfi only \ Est Drop Date = JAN-22 \ Transitions to PHP9030DJBB 01/11/2022
+PGP7030DLBB	30" Width\Gas Cktp\5 Burners\18,000 BTU Power Boil Burner\ADA Compliant \ Not Connectable
+PGP7030SLSS	30" Width\Gas Cktp\5 Burners\18,000 BTU Power Boil Burner\ADA Compliant \ Not Connectable
+PGP9030SLSS	30" Width\Gas Cktp\5 Burners\18,000 BTU Tri-Ring Burner\ADA Compliant \ Not Connectable
+PP7030DJBB	30" Width\Radiant Cktp\5 Burners\Up-Front Knobs\2x Dual Elements\Sync Burners\ADA Compliant \ Not Connectable
+PP9030DJBB	30" Width\Radiant Cktp\5 Burners\Tch Cntrl\2x Dual Elements\Sync Burners\Multi-Element Timer\ADA Compliant \ RJ45 Newfi only
+PP9030SJSS	30" Width\Radiant Cktp\5 Burners\Tch Cntrl\2x Dual Elements\Sync Burners\Multi-Element Timer\ADA Compliant \ RJ45 Newfi only
+PGP9830DRBB	30" Width\Gas Downdraft Cktp\30" Width\4 Burners\11,500 All Purpose Burner \ Not Connectable
+PGP9830SRSS	30" Width\Gas Downdraft Cktp\30" Width\4 Burners\11,500 All Purpose Burner\ADA Compliant \ Not Connectable
+PP9830DRBB	30" Width\Radiant Downdraft Cktp\4 Burners\Up-Front Knobs\1x 9"/6" Dual PowerBoil Element\Sync Burners\ADA Compliant \ Not Connectable
+PP9830SRSS	30" Width\Radiant Downdraft Cktp\4 Burners\Up-Front Knobs\1x 9"/6" Dual PowerBoil Element\Sync Burners\ADA Compliant \ Not Connectable
+PHP9036DJBB	36" Width\Induction Cktp\5 Burners\Tch Cntrl\11" 3,700W Induction Element\Sync Burners\Kitchen Timer\ADA Compliant \ RJ45 Newfi only
+PHP9036SJSS	36" Width\Induction Cktp\5 Burners\Tch Cntrl\11" 3,700W Induction Element\Sync Burners\Kitchen Timer\ADA Compliant \ RJ45 Newfi only
+PHP9036BMTS	36" Width\Induction Cktp\5 Burners\Tch Cntrl\11" 3,700W Induction Element\Sync Burners\Kitchen Timer\ADA Compliant \ RJ45 Newfi only \ Est Drop Date = JAN-22 \ Transitions to PHP9036DJBB 01/11/2022
+PGP7036DLBB	36" Width\Gas Cktp\5 Burners\18,000 BTU Power Boil Burner\ADA Compliant \ Not Connectable
+PGP7036SLSS	36" Width\Gas Cktp\5 Burners\18,000 BTU Power Boil Burner\ADA Compliant \ Not Connectable
+PGP9036SLSS	36" Width\Gas Cktp\5 Burners\18,000 BTU Tri-Ring Burner\ADA Compliant \ Not Connectable
+PP7036DJBB	36" Width\Radiant Cktp\5 Burners\Up-Front Knobs\12"/9"/6" Tri-Ring Element\Sync Burners\ADA Compliant \ Not Connectable
+PP9036DJBB	36" Width\Radiant Cktp\5 Burners\Tch Cntrl\12"/9"/6" Tri-Ring Element\Sync Burners\Multi-Element Timer\ADA Compliant \ RJ45 Newfi only
+PP9036SJSS	36" Width\Radiant Cktp\5 Burners\Tch Cntrl\12"/9"/6" Tri-Ring Element\Sync Burners\Multi-Element Timer\ADA Compliant \ RJ45 Newfi only
+PWB7030SLSS	975W\1.7 CuFt\Conv\Stm Cook \ Not Connectable
+JES2251SJ	1,200W\2.2 CuFt\Sensor
+PEB7227DLBB	1,100W\2.2 CuFt\Sensor\ADA Compliant \ Not Connectable
+PEB7227ANDD	1,100W\2.2 CuFt\Sensor\ADA Compliant \ Not Connectable
+PES7227SLSS	1,100W\2.2 CuFt\Sensor\ADA Compliant \ Not Connectable
+PES7227DLWW	1,100W\2.2 CuFt\Sensor\ADA Compliant \ Not Connectable \ Est Drop Date = MAR-22
+PEB7227DLWW	1,100W\2.2 CuFt\Sensor\ADA Compliant \ Not Connectable
+PEB9159SJSS	1,000W\1.5 CuFt\Conv\ADA Compliant
+PEB9159DJWW	1,000W\1.5 CuFt\Conv\ADA Compliant \ Est Drop Date = MAR-22
+PEM31DFBB	800W\1.1 CuFt\Sensor\ADA Compliant
+PEM31SFSS	800W\1.1 CuFt\Sensor\ADA Compliant
+PEM31BMTS	800W\1.1 CuFt\Sensor\ADA Compliant \ Not Connectable
+PEM31DFWW	800W\1.1 CuFt\Sensor\ADA Compliant
+PVM9179DRBB	950W\1.7 CuFt\300 CFM\Conv \ Not Connectable
+PVM9179FRDS	950W\1.7 CuFt\300 CFM\Conv \ Not Connectable
+PVM9179ERES	950W\1.7 CuFt\300 CFM\Conv \ Not Connectable
+PVM9179SRSS	950W\1.7 CuFt\300 CFM\Conv \ Not Connectable
+PVM9179BRTS	950W\1.7 CuFt\300 CFM\Conv \ Not Connectable
+PVM9179DRWW	950W\1.7 CuFt\300 CFM\Conv \ Not Connectable
+PNM9216SKSS	1,000W\2.1 CuFt\400 CFM\Sensor\Stm Cln\Chef Connect
+PVM9005EJES	1,050W\2.1 CuFt\400 CFM\Sensor\Stm Cook\Chef Connect
+PVM9005SJSS	1,050W\2.1 CuFt\400 CFM\Sensor\Stm Cook\Chef Connect
+PVM9215SKSS	950W\2.1 CuFt\400 CFM\Sensor\Stm Cln\Chef Connect
+PVM9225SRSS	1,000W\2.2 CuFt\400 CFM\Sensor\Chef Connect \ Not Connectable
+PVM9005BLTS	1,050W\2.1 CuFt\400 CFM\Sensor\Stm Cook\Chef Connect \ Not Connectable
+PGB965YPFS	Built in WIFI
+PGB965BPTS	Built in WIFI
+PB965YPFS	30" FS\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Dbl Oven\True European Conv w/ Precise Air\Slf Cln Rcks \ Built in WIFI
+PB965BPTS	30" FS\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Dbl Oven\True European Conv w/ Precise Air\Slf Cln Rcks \ Built in WIFI
+P2B935YPFS	Built in WIFI
+PB935YPFS	30" FS\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\True European Conv w/ Precise Air\Slf Cln Rcks \ Built in WIFI
+PGB935YPFS	30" FS\Gas RG\5 Burners\Slf Cln w/ Stm Cln Opt\Cast Iron Griddle/Grill\Sgl Oven w/ Storage Drwr\True European Conv \ Built in WIFI
+PGS930YPFS	30" S/I\Gas\5 Burners\Cast Iron Griddle/Grill\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\True European Conv\ADA Compliant \ Built in WIFI
+PGS930BPTS	30" S/I\Gas\5 Burners\Cast Iron Griddle/Grill\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\True European Conv\ADA Compliant \ Built in WIFI
+PS960YPFS	30" S/I\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Dbl Oven\True European Conv w/ Precise Air\Slf Cln Rcks\ADA Compliant \ Built in WIFI
+PGS960YPFS	30" S/I\Gas\5 Burners\Cast Iron Griddle/Grill\Slf Cln w/ Stm Cln Opt\Dbl Oven\True European Conv\ADA Compliant \ Built in WIFI
+P2S930YPFS	Built in WIFI
+PHS930YPFS	30" S/I\Induction RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\True European Conv w/ Precise Air\Slf Cln Rcks\ADA Compliant \ Built in WIFI
+PHS93XYPFS	30" S/I\Induction RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\True European Conv w/ Precise Air\Slf Cln Rcks\ADA Compliant \ Built in WIFI
+PHS930BPTS	Built in WIFI
+PSS93YPFS	ADA Compliant \ Built in WIFI
+PSS93BPTS	ADA Compliant \ Built in WIFI
+PSA9120SPSS	Not Connectable
+PSA9240SPSS	Not Connectable
+PSB9100SFSS	27" Width\B/I 5-in-1 Oven w/ 120V Advantium Tech\Glass-Tch Cntrls w/ Selector Knob\1.7 CuFt
+PSB9120SFSS	30" Width\B/I 5-in-1 Oven w/ 120V Advantium Tech\Glass-Tch Cntrls w/ Selector Knob\1.7 CuFt
+PSB9240SFSS	30" Width\B/I 5-in-1 Oven w/ 240V Advantium Tech\Glass-Tch Cntrls w/ Selector Knob\1.7 CuFt
+PSB9120BLTS	30" Width\B/I 5-in-1 Oven w/ 120V Advantium Tech\Glass-Tch Cntrls w/ Selector Knob\1.7 CuFt \ Not Connectable
+PV970NSS	30" Chimney Hood\450 CFM\Halogen Lighting\Ducted
+PVX7300FJDS	30" Under the Cabinet Hood\390 CFM\LED Lighting\Convertible\Chef Connect\ADA Compliant \ Not Connectable \ Est Drop Date = JAN-22
+PVX7300SJSS	30" Under the Cabinet Hood\390 CFM\LED Lighting\Convertible\Chef Connect\ADA Compliant
+UVD6301DPBB	Not Connectable
+UVD6301SPSS	Not Connectable
+UVW8301SLSS	30" Chimney Hood\390 CFM\LED Lighting\Convertible\Chef Connect\ADA Compliant \ Not Connectable
+UVW9301SLSS	30" Chimney Hood\LED Lighting\Convertible\Chef Connect/WiFi\ADA Compliant \ Not Connectable
+UVW8304SPSS	Built in WIFI with Bluetooth
+UVW93042PSS	Built in WIFI with Bluetooth
+UVW9301BLTS	30" Chimney Hood\LED Lighting\Convertible\Chef Connect/WiFi\ADA Compliant \ Not Connectable
+PV976NSS	36" Chimney Hood\450 CFM\Halogen Lighting\Ducted
+PV977NSS	36" Island\450 CFM\Halogen Lighting\Ducted
+PVX7360FJDS	36" Under the Cabinet  Hood\390 CFM\LED Lighting\Convertible\Chef Connect\ADA Compliant \ Not Connectable \ Est Drop Date = JAN-22
+PVX7360SJSS	36" Under the Cabinet  Hood\390 CFM\LED Lighting\Convertible\Chef Connect\ADA Compliant
+UVD6361DPBB	Not Connectable
+UVD6361SPSS	Not Connectable
+UVW8361SLSS	36" Chimney Hood\390 CFM\LED Lighting\Convertible\Chef Connect\ADA Compliant \ Not Connectable
+UVW9361SLSS	36" Chimney Hood\LED Lighting\Convertible\Chef Connect/WiFi\ADA Compliant \ Not Connectable
+UVW8364SPSS	Built in WIFI with Bluetooth
+UVW93642PSS	Built in WIFI with Bluetooth
+UVW9361BLTS	36" Chimney Hood\LED Lighting\Convertible\Chef Connect/WiFi\ADA Compliant \ Not Connectable
+UVW9484SPSS	Built in WIFI with Bluetooth
+UVW7241SNSS	24" Chimney Hood\450 CFM\Halogen Lighting\Convertible \ Not Connectable
+UVC9300SLSS	30" Insert\390 CFM\LED Lighting\Convertible\Chef Connect/WiFi\ADA Compliant \ Not Connectable
+UVC9360SLSS	36" Insert\390 CFM\LED Lighting\Convertible\Chef Connect/WiFi\ADA Compliant \ Not Connectable
+PKS7000SNSS	27" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\1x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+PKD7000SNSS	27" Width\Dbl Elec\Slf & Stm Cln\Conv (Upper), Trad (Lower)\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb \ Built in WIFI
+PK7800SKSS	27" Width\Slf & Stm Cln \ Not Connectable
+PT9800SHSS	30" Width\Slf & Stm Cln \ Not Connectable
+PT7800EKES	30" Width\Slf & Stm Cln \ Not Connectable \ Est Drop Date = JAN-22 \ Transitions to PT7800SHSS 01/11/2022
+PT7800SHSS	30" Width\Slf & Stm Cln \ Not Connectable
+PTS7000SNSS	30" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\1x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+PTS700LSNSS	30" Width\Sgl Elec w/ LH side-swng Dr\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\1x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+PTS700RSNSS	30" Width\Sgl Elec w/ RH side-swng Dr\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\1x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+PTS9000SNSS	30" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb, Camera\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+PTS9200SNSS	30" Width\Slf & Stm Cln \ Built in WIFI
+PTD7000SNSS	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry \ Built in WIFI
+PTD9000SNSS	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\4x Roller Rck, Meat Prb, Camera\Prec Ckg, Hot-Air Fry \ Built in WIFI
+PTD700LSNSS	30" Width\Dbl Elec w/ LH side-swng Dr\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry \ Built in WIFI
+PTD700RSNSS	30" Width\Dbl Elec w/ RH side-swng Dr\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry \ Built in WIFI
+PTS7000BNTS	30" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\1x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+PTS9000BNTS	30" Width\Slf & Stm Cln\Conv Oven\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb, Camera\Prec Ckg, Hot-Air Fry\ADA Compliant \ Built in WIFI
+PTD7000BNTS	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\2x Roller Rck, Meat Prb\Prec Ckg, Hot-Air Fry \ Built in WIFI
+PTD9000BNTS	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Both)\7" Full-Clr Tch LCD Scrn\4x Roller Rck, Meat Prb, Camera\Prec Ckg, Hot-Air Fry \ Built in WIFI
+PKW7000SPSS	Not Connectable
+PTW9000SPSS	Not Connectable
+PHC06LY	Window\Cool Only\115V\6,000 BTU\Elec Cntrl\ENERGY STAR® Qualified \ Built in WIFI
+PHC08LY	Window\Cool Only\115V\8,000 BTU\Elec Cntrl\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+UCC15NJII	15" Width\Gourmet Clear Ice \ Est Drop Date = JAN-22 \ Transitions to UCC15NPRII
+UCC15NPRII	15" Width\Gourmet Clear Ice \ Built in WIFI
+UNC15NJII	15" Width\Nugget Ice \ Est Drop Date = JAN-22 \ Transitions to UNC15NPRII
+UNC15NPRII	15" Width\Nugget Ice \ Built in WIFI
+PFE28KMKES	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant
+PFE28KYNFS	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+PFD28KYNFS	36" Std-Depth\28.0 CuFt\3 Dr French DnD\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ADA Compliant \ ConnectPlus Ready
+PFE28PYNFS	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\K-Cup\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+PVD28BYNFS	36" Std-Depth\28.0 CuFt\4 Dr French DnD\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ Built in WIFI
+PFD28KBLTS	36" Std-Depth\28.0 CuFt\3 Dr French DnD\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ADA Compliant \ ConnectPlus Ready
+PFE28KBLTS	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+PSB42YSNSS	B/I\24.5 CuFt\SS Extr,LED Lighting\Extrnl Ice,Water Dispnr\MWF Filter \ Built in WIFI
+PSB48YSNSS	B/I\28.7 CuFt\SS Extr,LED Lighting\Extrnl Ice,Water Dispnr\MWF Filter \ Built in WIFI
+PYE22KELDS	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+PYE22KMKES	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant
+PYE22KYNFS	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+PYD22KYNFS	36" Counter-Depth\22.0 CuFt\3 Dr French DnD\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ADA Compliant \ ConnectPlus Ready
+PYE22PYNFS	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\K-Cup\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+PYD22KBLTS	36" Counter-Depth\22.0 CuFt\3 Dr French DnD\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ADA Compliant \ ConnectPlus Ready
+PYE22KBLTS	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\Autofill\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+PWE23KELDS	36" Counter-Depth\23.0 CuFt\3 Dr French\Internal Dispnr\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+PWE23KMKES	36" Counter-Depth\23.0 CuFt\3 Dr French\Internal Dispnr\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified
+PWE23KYNFS	36" Counter-Depth\23.0 CuFt\3 Dr French\Internal Dispnr\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+PZS22MYKFS	RJ45 Newfi only
+PSE25KYHFS	RJ45 Newfi only
+PSS28KYHFS	RJ45 Newfi only
+PVS06BSPSS	Not Connectable
+PWS06DSPSS	Not Connectable
+GDF450PGRBB	ConnectPlus Ready
+GDF510PGRBB	ConnectPlus Ready
+GDF511PGRBB	ConnectPlus Ready
+GDF535PGRBB	ConnectPlus Ready
+GDF550PGRBB	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDF535PGRCC	ConnectPlus Ready
+GDF550PMRES	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDF450PSRSS	ConnectPlus Ready
+GDF510PSRSS	ConnectPlus Ready
+GDF511PSRSS	ConnectPlus Ready
+GDF535PSRSS	ConnectPlus Ready
+GDF550PSRSS	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDF450PGRWW	ConnectPlus Ready
+GDF510PGRWW	ConnectPlus Ready
+GDF511PGRWW	ConnectPlus Ready
+GDF535PGRWW	ConnectPlus Ready
+GDF550PGRWW	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT535PGRBB	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT550PGRBB	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDP630PGRBB	Plastic Tub\24" Width\Long Dr\3 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT630PGRBB	Plastic Tub\24" Width\Long Dr\3 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT550PMRES	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDP630PMRES	Plastic Tub\24" Width\Long Dr\3 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT630PMRES	Plastic Tub\24" Width\Long Dr\3 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT550PYRFS	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDP630PYRFS	Plastic Tub\24" Width\Long Dr\3 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT630PYRFS	Plastic Tub\24" Width\Long Dr\3 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT535PSRSS	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT535PGRWW	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT550PGRWW	Plastic Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDP630PGRWW	Plastic Tub\24" Width\Long Dr\3 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT630PGRWW	Plastic Tub\24" Width\Long Dr\3 Rcks\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT635HSRSS	Hybrid Tub\24" Width\Long Dr\2 Rcks\ENERGY STAR® Qualified \ Built in WIFI
+GPT225SGLBB	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\54 dBA\12 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GPT145SSLSS	18" Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\53 dBA\8 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GPT225SSLSS	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\54 dBA\12 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GPT225SGLWW	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\54 dBA\12 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT225SGLBB	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\51 dBA\12 Place Settings\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GDT226SGLBB	\ADA Compliant \ ConnectPlus Ready
+GDT226SILII	\ADA Compliant \ ConnectPlus Ready
+GDT225SSLSS	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\51 dBA\12 Place Settings\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GDT226SSLSS	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\51 dBA\12 Place Settings\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GDT225SGLWW	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\51 dBA\12 Place Settings\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GDT226SGLWW	\ADA Compliant \ ConnectPlus Ready
+GDF645SMNES	Stainless Tub\Front Cntrl\Pocket Hndl\Long Dr\48 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDF645SSNSS	Stainless Tub\Front Cntrl\Pocket Hndl\Long Dr\48 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT645SGNBB	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\48 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT665SGNBB	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\46 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT665SFNDS	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\46 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT645SMNES	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\48 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT665SMNES	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\46 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDP645SYNFS	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\48 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT645SYNFS	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\48 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDP665SYNFS	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\46 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT645SSNSS	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\48 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT665SSNSS	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\46 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT645SGNWW	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\48 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GDT665SGNWW	Stainless Tub\Top Cntrl\Through Hndl\Long Dr\46 dBA\16 Place Settings\ENERGY STAR® Qualified \ ConnectPlus Ready
+GSD2100VBB	Plastic Tub\Front Cntrl\Pocket Hndl\Short Dr\64 dBA\12 Place Settings \ Est Drop Date = APR-22 \ Transitions to GDF450PGRBB
+GSD2100VCC	Plastic Tub\Front Cntrl\Pocket Hndl\Short Dr\64 dBA\12 Place Settings \ Est Drop Date = APR-22
+GSD2100VWW	Plastic Tub\Front Cntrl\Pocket Hndl\Short Dr\64 dBA\12 Place Settings \ Est Drop Date = APR-22 \ Transitions to GDF450PGRWW
+GSM2200VBB	Plastic Tub\Front Cntrl\Pocket Hndl\Short Dr\64 dBA\8 Place Settings
+GSM2260VSS	Plastic Tub\Front Cntrl\Pocket Hndl\Short Dr\64 dBA\8 Place Settings
+GSM2200VWW	Plastic Tub\Front Cntrl\Pocket Hndl\Short Dr\64 dBA\8 Place Settings
+UCG1500NBB	1.4 CuFt\1/3 HP\Universal Dr Fnsh\15" Width \ Not Connectable
+UCG1510NII	1.4 CuFt\1/3 HP\Panel Ready Dr\15" Width \ Not Connectable
+UCG1520NSS	1.4 CuFt\1/3 HP\Universal Dr Fnsh\15" Width \ Not Connectable
+UCG1500NWW	1.4 CuFt\1/3 HP\Universal Dr Fnsh\15" Width \ Not Connectable
+GFQ14ESSNWW	ConnectPlus Ready
+DSKP333ECWW	24" Width\3.6 CuFt\Vented\24" Depth\ADA Compliant
+DSKS333ECWW	24" Width\3.6 CuFt\Vented\24" Depth
+DSKS433EBWW	24" Width\3.6 CuFt\24" Depth
+GNW128PSMWW	24" Width\2.8 CuFt\Stainless Steel Basket\25" Depth\Plugs Into Dryer or Wall \ Not Connectable
+GNW128SSMWW	24" Width\2.8 CuFt\Stainless Steel Basket\25" Depth \ Not Connectable
+GFT14ESSMWW	24" Width\4.1 CuFt\Ventless Condenser\24" Depth\Outlet for Washer\HE Sensor Dry\ENERGY STAR® Qualified \ ConnectPlus Ready
+GFD14ESSNWW	24" Width\4.3 CuFt\Vented\24" Depth\Outlet for Washer\HE Sensor Dry\ENERGY STAR® Qualified \ ConnectPlus Ready
+GFW148SSMWW	24" Width\2.4 CuFt\Stm\Stainless Steel Basket\25" Depth\Plugs Into Dryer or Wall\Quick Wash\ENERGY STAR® Qualified \ ConnectPlus Ready
+GFD55ESPNDG	28" Width\7.8 CuFt\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI \ Est Drop Date = JAN-22
+GFD55ESPRRS	28" Width\7.8 CuFt\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD85ESPNRS	28" Width\7.8 CuFt\Stm\Ext Tumble / Stainless Drum\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD65ESPNSN	28" Width\7.8 CuFt\Stm\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD55ESSNWW	28" Width\7.8 CuFt\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD65ESSNWW	28" Width\7.8 CuFt\Stm\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD85ESSNWW	28" Width\7.8 CuFt\Stm\Ext Tumble / Stainless Drum\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD55GSPNDG	28" Width\7.8 CuFt\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI \ Est Drop Date = JAN-22
+GFD55GSPRRS	28" Width\7.8 CuFt\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD85GSPNRS	28" Width\7.8 CuFt\Stm\Ext Tumble / Stainless Drum\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD65GSPNSN	28" Width\7.8 CuFt\Stm\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD55GSSNWW	28" Width\7.8 CuFt\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD65GSSNWW	28" Width\7.8 CuFt\Stm\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFD85GSSNWW	28" Width\7.8 CuFt\Stm\Ext Tumble / Stainless Drum\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFV55ESSNWW	27" Width\Ext Tumble\32" Depth\HE Sensor Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFW550SPNDG	28" Width\4.8 CuFt\UltraFresh Vent System w/ OdorBlock\32" Depth\Reversible Dr\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI \ Est Drop Date = JAN-22
+GFW550SPRRS	28" Width\4.8 CuFt\UltraFresh Vent System w/ OdorBlock\32" Depth\Reversible Dr\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFW850SPNRS	28" Width\5.0 CuFt\Stm\UltraFresh Vent System w/ OdorBlock\34" Depth\1 Step Wash,Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFW650SPNSN	28" Width\4.8 CuFt\Stm\UltraFresh Vent System w/ OdorBlock\32" Depth\SmartDispenseTM\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFW510SCNWW	28" Width\4.5 CuFt\UltraFresh Vent System w/ OdorBlock\32" Depth\True Closet Depth\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFW550SSNWW	28" Width\4.8 CuFt\UltraFresh Vent System w/ OdorBlock\32" Depth\Reversible Dr\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFW650SSNWW	28" Width\4.8 CuFt\Stm\UltraFresh Vent System w/ OdorBlock\32" Depth\SmartDispenseTM\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GFW850SSNWW	28" Width\5.0 CuFt\Stm\UltraFresh Vent System w/ OdorBlock\34" Depth\1 Step Wash,Dry\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+GTW335ASNWW	27" Width\4.2 CuFt\Stainless Steel Tub\Heavy Duty Agitator\Deep Rinse\27" Depth \ RJ45 Newfi only
+GTW525ACPWB	RJ45 Newfi only
+GTX52EASPWB	Not Connectable
+GTX52GASPWB	Not Connectable
+GTX33EASKWW	27" Width\6.2 CuFt\Long Vent (up to 120 Ft)\27" Depth
+GTX42EASJWW	27" Width\6.2 CuFt\Long Vent (up to 120 Ft)\27" Depth \ Est Drop Date = JAN-22
+GTD45EASJWS	27" Width\7.2 CuFt\Ext Tumble / Long Vent (up to 120 Ft)\30" Depth\HE Sensor Dry
+GTD33EASKWW	27" Width\7.2 CuFt\Long Vent (up to 120 Ft)\30" Depth
+GTD42EASJWW	27" Width\7.2 CuFt\Ext Tumble / Long Vent (up to 120 Ft)\30" Depth
+GTD84ECPNDG	27" Width\7.4 CuFt\ENERGY STAR® Qualified \ Built in WIFI \ Est Drop Date = APR-22 \ Transitions to PTD70EBPTDG
+GTD84ECSNWS	27" Width\7.4 CuFt\ENERGY STAR® Qualified \ Built in WIFI \ Est Drop Date = APR-22 \ Transitions to PTD70EBSTWS
+GTX33GASKWW	27" Width\6.2 CuFt\Long Vent (up to 120 Ft)\27" Depth
+GTX42GASJWW	27" Width\6.2 CuFt\Ext Tumble / Long Vent (up to 120 Ft)\27" Depth \ Est Drop Date = JAN-22
+GTD45GASJWS	27" Width\7.2 CuFt\Ext Tumble / Long Vent (up to 120 Ft)\30" Depth\HE Sensor Dry
+GTD42GASJWW	27" Width\7.2 CuFt\Ext Tumble / Long Vent (up to 120 Ft)\30" Depth
+GTD33GASKWW	27" Width\7.2 CuFt\Long Vent (up to 120 Ft)\30" Depth
+GTD84GCPNDG	27" Width\7.4 CuFt\ENERGY STAR® Qualified \ Built in WIFI \ Est Drop Date = APR-22 \ Transitions to PTD70GBPTDG
+GTD84GCSNWS	27" Width\7.4 CuFt\ENERGY STAR® Qualified \ Built in WIFI \ Est Drop Date = APR-22 \ Transitions to PTD70GBSTWS
+GTW845CPNDG	27" Width\5.0 CuFt\Stainless Steel Tub\Dual Action Agitator\ENERGY STAR® Qualified \ Built in WIFI \ Est Drop Date = JAN-22 \ Transitions to PTW705BPTDG
+GTW845CSNWS	27" Width\5.0 CuFt\Stainless Steel Tub\Dual Action Agitator\ENERGY STAR® Qualified \ Built in WIFI \ Est Drop Date = APR-22 \ Transitions to PTW705BSTWS
+GTW465ASNWW	27" Width\4.5 CuFt\Stainless Steel Tub\Dual Action Agitator\Deep Fill\27" Depth \ RJ45 Newfi only
+GTW840CPNDG	27" Width\5.2 CuFt\Stainless Steel Tub\ENERGY STAR® Qualified \ Built in WIFI \ Est Drop Date = APR-22 \ Transitions to PTW700BPTDG
+GTW500ASNWS	27" Width\4.6 CuFt\Stainless Steel Tub\Infusor\Deep Fill\27" Depth\ENERGY STAR® Qualified \ RJ45 Newfi only
+GTW840CSNWS	27" Width\5.2 CuFt\Stainless Steel Tub\ENERGY STAR® Qualified \ Built in WIFI \ Est Drop Date = JAN-22 \ Transitions to PTW700BSTWS
+GUD24ESSMWW	24" Width\Elec\2.3 CuFt Washer\4.4 CuFt Dryer\Stainless Steel Basket\Agitator\Inlet Hoses \ ConnectPlus Ready
+GUD24GSSMWW	24" Width\Gas\2.3 CuFt Washer\4.4 CuFt Dryer\Stainless Steel Basket\Agitator\Inlet Hoses \ ConnectPlus Ready
+GUD27ESPMDG	27" Width\Elec\3.8 CuFt Washer\5.9 CuFt Dryer\Stainless Steel Basket\Agitator \ RJ45 Newfi only
+GUD27GSPMDG	27" Width\Gas\3.9 CuFt Washer\5.9 CuFt Dryer\Stainless Steel Basket\Agitator \ RJ45 Newfi only
+GUD27ESSMWW	27" Width\Elec\3.8 CuFt Washer\5.9 CuFt Dryer\Stainless Steel Basket\Agitator\Inlet Hoses \ ConnectPlus Ready
+GUD27EESNWW	27" Width\Elec\3.9 CuFt Washer\5.9 CuFt Dryer\Stainless Steel Basket\Infusor\Inlet Hoses\ENERGY STAR® Qualified \ ConnectPlus Ready
+GUD27GSSMWW	27" Width\Gas\3.8 CuFt Washer\5.9 CuFt Dryer\Stainless Steel Basket\Agitator\Inlet Hoses \ ConnectPlus Ready
+GUV27ESSMWW	27" Width\Elec\3.8 CuFt Washer\5.9 CuFt Dryer\Stainless Steel Basket\Agitator\Inlet Hoses \ ConnectPlus Ready
+GUD27GESNWW	27" Width\Gas\3.9 CuFt Washer\5.9 CuFt Dryer\Stainless Steel Basket\Infusor\Inlet Hoses\ENERGY STAR® Qualified \ ConnectPlus Ready
+JP3021DPBB	21" Width\Radiant Cktp\2 Burners\Up-Front Knobs\1x 9"/6" Dual Element\ADA Compliant \ Not Connectable
+JGP3030DLBB	30" Width\Gas Cktp\4 Burners\15,000 BTU Power Boil Burner\ADA Compliant \ Not Connectable
+JGP5030DLBB	30" Width\Gas Cktp\5 Burners\15,000 BTU Power Boil Burner\ADA Compliant \ Not Connectable
+JGP3530SLSS	30" Width\Gas Cktp\4 Burners\18,000 BTU Power Boil Burner\Customizable Knobs (Brushed Bronze Incl)\ADA Compliant \ Not Connectable \ Est Drop Date = JAN-22 \ Transitions to JGP3030SLSS 01/11/2022
+JGP3030SLSS	30" Width\Gas Cktp\4 Burners\15,000 BTU Power Boil Burner\ADA Compliant \ Not Connectable
+JGP5030SLSS	30" Width\Gas Cktp\5 Burners\15,000 BTU Power Boil Burner\Elec Ignition w/ Auto Reignition\ADA Compliant \ Not Connectable
+JGP3030DLWW	30" Width\Gas Cktp\4 Burners\18,000 BTU Power Boil Burner\ADA Compliant \ Not Connectable
+JP3030DJBB	30" Width\Radiant Cktp\4 Burners\Side Knobs\2x 8" PowerBoil Elements\ADA Compliant \ Not Connectable
+JP3530DJBB	30" Width\Radiant Cktp\4 Burners\Side Knobs\1x 9"/6" Dual PowerBoil Element\ADA Compliant \ Not Connectable \ Est Drop Date = JAN-22 \ Transitions to JP3030DJBB 01/11/2022
+JP5030DJBB	30" Width\Radiant Cktp\4 Burners\Tch Cntrl\1x 9"/6" Dual PowerBoil Element\Sync Burners\Kitchen Timer\ADA Compliant \ RJ45 Newfi only
+JP3030SJSS	30" Width\Radiant Cktp\4 Burners\Side Knobs\2x 8" PowerBoil Elements\ADA Compliant \ Not Connectable
+JP3530SJSS	30" Width\Radiant Cktp\4 Burners\Side Knobs\1x 9"/6" Dual PowerBoil Element\ADA Compliant \ Not Connectable \ Est Drop Date = JAN-22 \ Transitions to JP3030SJSS 01/11/2022
+JP5030SJSS	30" Width\Radiant Cktp\4 Burners\Tch Cntrl\1x 9"/6" Dual PowerBoil Element\Sync Burners\Kitchen Timer\ADA Compliant \ RJ45 Newfi only
+JP3030TJWW	30" Width\Radiant Cktp\4 Burners\Side Knobs\2x 8" PowerBoil Elements\ADA Compliant \ Not Connectable
+JGP3036DLBB	36" Width\Gas Cktp\5 Burners\15,000 BTU Power Boil Burner\ADA Compliant \ Not Connectable
+JGP5036DLBB	36" Width\Gas Cktp\5 Burners\2x 15,000 BTU Power Boil Burners\Elec Ignition w/ Auto Reignition\ADA Compliant \ Not Connectable
+JGP3036SLSS	36" Width\Gas Cktp\5 Burners\15,000 BTU Power Boil Burner\Customizable Knobs (Brushed Bronze Incl)\ADA Compliant \ Not Connectable
+JGP5036SLSS	36" Width\Gas Cktp\5 Burners\2x 15,000 BTU Power Boil Burners\ADA Compliant \ Not Connectable
+JGP3036DLWW	36" Width\Gas Cktp\5 Burners\18,000 BTU Power Boil Burner\Customizable Knobs\ADA Compliant \ Not Connectable
+JP3036DLBB	36" Width\Radiant Cktp\5 Burners\Up-Front Knobs\1x 12"/9" Dual Element\ADA Compliant \ Not Connectable
+JP5036DJBB	36" Width\Radiant Cktp\5 Burners\Tch Cntrl\12"/9"/6" Tri-Ring Element\Kitchen Timer\ADA Compliant \ RJ45 Newfi only
+JP3036SLSS	36" Width\Radiant Cktp\5 Burners\Up-Front Knobs\1x 12"/9" Dual Element\ADA Compliant \ Not Connectable
+JP5036SJSS	36" Width\Radiant Cktp\5 Burners\Tch Cntrl\12"/9"/6" Tri-Ring Element\Kitchen Timer\ADA Compliant \ RJ45 Newfi only
+JP3036TLWW	36" Width\Radiant Cktp\5 Burners\Up-Front Knobs\1x 12"/9" Dual Element\ADA Compliant \ Not Connectable
+JES1460DSBB	1,100W\1.4 CuFt\Sensor
+JES1460DSWW	1,100W\1.4 CuFt\Sensor
+JES1657DMBB	1,150W\1.6 CuFt\Sensor \ Not Connectable
+JES1657SMSS	1,150W\1.6 CuFt\Sensor \ Not Connectable
+JES1657BMTS	1,150W\1.6 CuFt\Sensor \ Not Connectable
+JES1657DMWW	1,150W\1.6 CuFt\Sensor \ Not Connectable
+JES1095DMBB	900W\0.9 CuFt \ Not Connectable
+JES1095SMSS	900W\0.9 CuFt \ Not Connectable
+JES1097SMSS	900W\0.9 CuFt\Scan-to-Cook \ Built in WIFI
+JES1095BMTS	900W\0.9 CuFt \ Not Connectable
+JES1095DMWW	900W\0.9 CuFt \ Not Connectable
+JES1109RR	1,000W\Conv \ Not Connectable
+JES1109RRSS	1,050W\1.0 CuFt\Conv\Air Fry \ Not Connectable
+JES1145DMBB	950W\1.1 CuFt \ Not Connectable
+JESP113DPBB	Not Connectable
+JES1145SHSS	950W\1.1 CuFt
+JESP113SPSS	Not Connectable
+JES1145DLWW	950W\1.1 CuFt \ Not Connectable
+JVM3160DFBB	1,000W\1.6 CuFt\300 CFM
+JVM3162DJBB	950W\1.6 CuFt\300 CFM
+JNM3163DJBB	1,000W\1.6 CuFt\300 CFM
+JVM3160DFCC	1,000W\1.6 CuFt\300 CFM
+JVM3160EFES	1,000W\1.6 CuFt\300 CFM
+JVM3162RJSS	950W\1.6 CuFt\300 CFM
+JNM3163RJSS	1,000W\1.6 CuFt\300 CFM
+JVM3160RFSS	1,000W\1.6 CuFt\300 CFM
+JVM3160DFWW	1,000W\1.6 CuFt\300 CFM
+JVM3162DJWW	950W\1.6 CuFt\300 CFM
+JNM3163DJWW	1,000W\1.6 CuFt\300 CFM
+JVM6175DKBB	1,000W\1.7 CuFt\300 CFM\Sensor
+JVM6172DKBB	1,000W\1.7 CuFt\300 CFM
+JVM6175EKES	1,000W\1.7 CuFt\300 CFM\Sensor
+JVM6175YKFS	1,000W\1.7 CuFt\300 CFM\Sensor \ Not Connectable
+JVM6175SKSS	1,000W\1.7 CuFt\300 CFM\Sensor
+JVM6172SKSS	1,000W\1.7 CuFt\300 CFM
+JVM6175BLTS	1,000W\1.7 CuFt\300 CFM\Sensor \ Not Connectable
+JVM6175DKWW	1,000W\1.7 CuFt\300 CFM\Sensor
+JVM6172DKWW	1,000W\1.7 CuFt\300 CFM
+JNM3184DPBB	Not Connectable
+JNM3184RPSS	Not Connectable
+JVM7195DKBB	1,000W\1.9 CuFt\400 CFM\Sensor\Stm Cln
+JNM7196DKBB	1,000W\1.9 CuFt\400 CFM\Sensor\Stm Cln
+JVM7195FLDS	1,000W\1.9 CuFt\400 CFM\Sensor\Stm Cln \ Not Connectable
+JVM7195EKES	1,000W\1.9 CuFt\400 CFM\Sensor\Stm Cln
+JVM7195SKSS	1,000W\1.9 CuFt\400 CFM\Sensor\Stm Cln
+JNM7196SKSS	1,000W\1.9 CuFt\400 CFM\Sensor\Stm Cln
+JVM7195DKWW	1,000W\1.9 CuFt\400 CFM\Sensor\Stm Cln
+JNM7196DKWW	1,000W\1.9 CuFt\400 CFM\Sensor\Stm Cln
+JES2051DNBB	1,200W\2.0 CuFt\Sensor
+JES2051SNSS	1,200W\2.0 CuFt\Sensor
+JES2051DNWW	1,200W\2.0 CuFt\Sensor
+JES1072DMBB	700W\0.7 CuFt \ Not Connectable
+JEM3072DHBB	700W\0.7 CuFt
+JES1072SHSS	700W\0.7 CuFt
+JEM3072SHSS	700W\0.7 CuFt
+JES1072DMWW	700W\0.7 CuFt \ Not Connectable
+JEM3072DHWW	700W\0.7 CuFt
+JGAS640RMSS	24" FS\Gas RG\4 Burners\Stm Cln\Sgl Oven w/ Storage Drwr\Trad Bake\ADA Compliant \ Not Connectable
+JAS640RMSS	24" S/I\Radiant RG\4 Element\Stm Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks\ADA Compliant \ Not Connectable
+JM250DFBB	27" D/I\Coil\4 Element\Slf Cln\Trad Bake\Nickel Rcks\ADA Compliant
+JM250DFWW	27" D/I\Coil\4 Element\Slf Cln\Trad Bake\Nickel Rcks\ADA Compliant
+JD630DFBB	30" D/I\Radiant\4 Element\Slf Cln\Trad Bake\Nickel Rcks\ADA Compliant
+JD630SFSS	30" D/I\Radiant\4 Element\Slf Cln\Trad Bake\Nickel Rcks\ADA Compliant
+JD630DFWW	30" D/I\Radiant\4 Element\Slf Cln\Trad Bake\Nickel Rcks\ADA Compliant
+JGB735DPBB	30" FS\Gas RG\5 Burners\Slf Cln w/ Stm Cln Opt\Aluminum Griddle\Sgl Oven w/ Storage Drwr\Conv \ Not Connectable
+JGB735FPDS	30" FS\Gas RG\5 Burners\Slf Cln w/ Stm Cln Opt\Aluminum Griddle\Sgl Oven w/ Storage Drwr\Conv \ Not Connectable
+JGB735EPES	30" FS\Gas RG\5 Burners\Slf Cln w/ Stm Cln Opt\Aluminum Griddle\Sgl Oven w/ Storage Drwr\Conv \ Not Connectable
+JGB735SPSS	30" FS\Gas RG\5 Burners\Slf Cln w/ Stm Cln Opt\Aluminum Griddle\Sgl Oven w/ Storage Drwr\Conv \ Not Connectable
+JGB735DPWW	30" FS\Gas RG\5 Burners\Slf Cln w/ Stm Cln Opt\Aluminum Griddle\Sgl Oven w/ Storage Drwr\Conv \ Not Connectable
+JB655DKBB	30" FS\Radiant RG\5 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks
+JB735DPBB	30" FS\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks \ Not Connectable
+JB735FPDS	30" FS\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks \ Not Connectable
+JB655EKES	30" FS\Radiant RG\5 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks
+JB735EPES	30" FS\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks \ Not Connectable
+JB655YKFS	30" FS\Radiant RG\5 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks \ Not Connectable
+JB655SKSS	30" FS\Radiant RG\5 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks
+JB735SPSS	30" FS\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks \ Not Connectable
+JB655DKWW	30" FS\Radiant RG\5 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks
+JB735DPWW	30" FS\Radiant RG\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks \ Not Connectable
+JB258DMBB	30" FS\Coil RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JB256DMBB	30" FS\Coil RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JB258RMSS	30" FS\Coil RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JB256RMSS	30" FS\Coil RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JB258DMWW	30" FS\Coil RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JB256DMWW	30" FS\Coil RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JGB635DEKBB	30" FS\Gas RG\4 Burners\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake
+JGB660DPBB	30" FS\Gas RG\5 Burners\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake \ Not Connectable
+JGB660EPES	30" FS\Gas RG\5 Burners\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake \ Not Connectable
+JGB660YPFS	30" FS\Gas RG\5 Burners\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake \ Not Connectable
+JGB635REKSS	30" FS\Gas RG\4 Burners\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake
+JGB645SEKSS	30" FS\Gas RG\4 Burners\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake
+JGB660SPSS	30" FS\Gas RG\5 Burners\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake \ Not Connectable
+JGB635DEKWW	30" FS\Gas RG\4 Burners\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake
+JGB660DPWW	30" FS\Gas RG\5 Burners\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake \ Not Connectable
+JB625DKBB	30" FS\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks
+JB645DKBB	30" FS\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks
+JB480DMBB	30" FS\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks\ADA Compliant \ Not Connectable
+JB645EKES	30" FS\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks
+JB625RKSS	30" FS\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks
+JB645RKSS	30" FS\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks
+JB480SMSS	30" FS\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks\ADA Compliant \ Not Connectable
+JB625DKWW	30" FS\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks
+JB645DKWW	30" FS\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks
+JB480DMWW	30" FS\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks\ADA Compliant \ Not Connectable
+JBS160DMBB	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JBS360DMBB	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JBS460DMBB	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks\ADA Compliant \ Not Connectable
+JBS360RRSS	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JBS160DMWW	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JBS360DMWW	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+JBS460DMWW	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks\ADA Compliant \ Not Connectable
+JGBS10DEMBB	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+JGBS30DEKBB	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+JGBS60DEKBB	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake
+JGBS61DPBB	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake \ Not Connectable
+JGBS30REKSS	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+JGBS60REKSS	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake
+JGBS61RPSS	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake \ Not Connectable
+JGBS10DEMWW	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+JGBS30DEKWW	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+JGBS60DEKWW	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake
+JGBS61DPWW	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake \ Not Connectable
+JBS60DKBB	30" FS\Radiant RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks
+JBS60RKSS	30" FS\Radiant RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks
+JBS60DKWW	30" FS\Radiant RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks
+JBS86EPES	30" FS\Radiant RG\5 Element\Stm Cln\Dbl Oven\Conv\Nickel Rcks \ Not Connectable
+JBS86SPSS	30" FS\Radiant RG\5 Element\Stm Cln\Dbl Oven\Conv\Nickel Rcks \ Not Connectable
+JSS86SPSS	Not Connectable
+JGBS86EPES	30" FS\Gas RG\5 Burners\Stm Cln\Aluminum Griddle\Dbl Oven\Conv \ Not Connectable
+JGBS86SPSS	30" FS\Gas RG\5 Burners\Stm Cln\Aluminum Griddle\Dbl Oven\True European Conv \ Not Connectable
+JGSS86SPSS	30" FS\Gas RG\5 Burners\Stm Cln\Cast Iron Griddle\Dbl Oven\True European Conv\ADA Compliant \ Not Connectable
+JGBS66DEKBB	30" FS\Gas RG\5 Burners\Stm Cln\Aluminum Griddle\Sgl Oven w/ Broil Drwr\Trad Bake
+JGBS66EEKES	30" FS\Gas RG\5 Burners\Stm Cln\Aluminum Griddle\Sgl Oven w/ Broil Drwr\Trad Bake
+JGBS66REKSS	30" FS\Gas RG\5 Burners\Stm Cln\Aluminum Griddle\Sgl Oven w/ Broil Drwr\Trad Bake
+JGBS66DEKWW	30" FS\Gas RG\5 Burners\Stm Cln\Aluminum Griddle\Sgl Oven w/ Broil Drwr\Trad Bake
+JGS760FPDS	30" S/I\Gas\5 Burners\Aluminum Griddle\Slf Cln w/ Stm Cln Opt\Sgl Oven\True European Conv\ADA Compliant \ RJ45 Newfi only
+JGSS66EELES	30" FS\Gas RG\5 Burners\Stm Cln\Aluminum Griddle\Sgl Oven w/ Storage Drwr\Trad Bake\ADA Compliant \ Not Connectable
+JGS760EPES	30" S/I\Gas\5 Burners\Aluminum Griddle\Slf Cln w/ Stm Cln Opt\Sgl Oven\True European Conv\ADA Compliant \ RJ45 Newfi only
+JGSS66SELSS	30" FS\Gas RG\5 Burners\Stm Cln\Aluminum Griddle\Sgl Oven w/ Storage Drwr\Trad Bake\ADA Compliant \ Not Connectable
+JGSS61SPSS	30" S/I\Gas RG\4 Burners\Stm Cln\Sgl Oven w/ Storage Drwr\Trad Bake\ADA Compliant \ Not Connectable
+JGS760SPSS	30" S/I\Gas\5 Burners\Aluminum Griddle\Slf Cln w/ Stm Cln Opt\Sgl Oven\True European Conv\ADA Compliant \ RJ45 Newfi only
+JGS760DPWW	30" S/I\Gas\5 Burners\Aluminum Griddle\Slf Cln w/ Stm Cln Opt\Sgl Oven\True European Conv\ADA Compliant \ RJ45 Newfi only
+JS760FPDS	30" S/I\Radiant\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks\ADA Compliant \ RJ45 Newfi only
+JS645ELES	30" S/I\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks\ADA Compliant \ RJ45 Newfi only
+JS760EPES	30" S/I\Radiant\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks\ADA Compliant \ RJ45 Newfi only
+JS645SLSS	30" S/I\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks\ADA Compliant \ RJ45 Newfi only
+JS760SPSS	30" S/I\Radiant\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks\ADA Compliant \ RJ45 Newfi only
+JS645DLWW	30" S/I\Radiant RG\4 Element\Slf Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks\ADA Compliant \ RJ45 Newfi only
+JS760DPWW	30" S/I\Radiant\5 Element\Slf Cln w/ Stm Cln Opt\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks\ADA Compliant \ RJ45 Newfi only
+JVX3240SJSS	24" Under the Cabinet Hood\200 CFM\Halogen Lighting\Convertible\ADA Compliant
+JVX3240DJWW	24" Under the Cabinet  Hood\200 CFM\Halogen Lighting\Convertible\ADA Compliant
+JVW5301FJDS	30" Chimney Hood\350 CFM\Halogen Lighting\Convertible \ Not Connectable
+JVW5301EJES	30" Chimney Hood\350 CFM\Halogen Lighting\Convertible
+JVW5301SJSS	30" Chimney Hood\350 CFM\Halogen Lighting\Convertible
+JVW5301BJTS	30" Chimney Hood\350 CFM\Halogen Lighting\Convertible \ Not Connectable
+JVX5305DJBB	30" Under the Cabinet Hood\270 CFM\LED Lighting\Ducted\ENERGY STAR® Qualified\ADA Compliant
+JVX5305EJES	30" Under the Cabinet Hood\270 CFM\LED Lighting\Ducted\ENERGY STAR® Qualified\ADA Compliant \ Est Drop Date = JAN-22
+JVX5305SJSS	30" Under the Cabinet Hood\270 CFM\Halogen Lighting\Convertible\ENERGY STAR® Qualified\ADA Compliant
+JVX5305DJWW	30" Under the Cabinet Hood\270 CFM\LED Lighting\Ducted\ENERGY STAR® Qualified\ADA Compliant
+JN327HBB	30" Under the Cabinet Hood\Halogen Lighting\Non-Vented
+JV338HBB	30" Under the Cabinet Hood\160 CFM\Halogen Lighting\Ducted
+JVX3300DJBB	30" Under the Cabinet Hood\200 CFM\Halogen Lighting\Convertible\ADA Compliant
+JVX5300DJBB	30" Under the Cabinet Hood\310 CFM\Halogen Lighting\Convertible\ADA Compliant
+JN327HCC	30" Under the Cabinet Hood\Halogen Lighting\Non-Vented
+JVX3300EJES	30" Under the Cabinet Hood\200 CFM\Halogen Lighting\Convertible\ADA Compliant
+JVX5300EJES	30" Under the Cabinet Hood\310 CFM\Halogen Lighting\Convertible\ADA Compliant
+JVX3300SJSS	30" Under the Cabinet Hood\200 CFM\Halogen Lighting\Convertible\ADA Compliant
+JVX5300SJSS	30" Under the Cabinet Hood\310 CFM\Halogen Lighting\Convertible\ADA Compliant
+JVX5300BJTS	30" Under the Cabinet Hood\310 CFM\Halogen Lighting\Convertible\ADA Compliant \ Not Connectable
+JN327HWW	30" Under the Cabinet Hood\Halogen Lighting\Non-Vented
+JV338HWW	30" Under the Cabinet Hood\160 CFM\Halogen Lighting\Ducted
+JVX3300DJWW	30" Under the Cabinet Hood\200 CFM\Halogen Lighting\Convertible\ADA Compliant
+JVX5300DJWW	30" Under the Cabinet Hood\310 CFM\Halogen Lighting\Convertible\ADA Compliant
+JVW5361FJDS	36" Chimney Hood\350 CFM\Halogen Lighting\Convertible \ Not Connectable
+JVW5361EJES	36" Chimney Hood\350 CFM\Halogen Lighting\Convertible
+JVW5361SJSS	36" Chimney Hood\350 CFM\Halogen Lighting\Convertible
+JVW5361BJTS	36" Chimney Hood\350 CFM\Halogen Lighting\Convertible \ Not Connectable \ Est Drop Date = JAN-22
+JVX5365SJSS	36" Under the Cabinet  Hood\270 CFM\LED Lighting\Ducted\ENERGY STAR® Qualified\ADA Compliant \ Est Drop Date = JAN-22
+JVX5360EJES	36" Under the Cabinet  Hood\310 CFM\Halogen Lighting\Convertible\ADA Compliant \ Not Connectable \ Est Drop Date = JAN-22
+JVX5360SJSS	36" Under the Cabinet  Hood\310 CFM\Halogen Lighting\Convertible\ADA Compliant
+JVX5360BJTS	36" Under the Cabinet  Hood\310 CFM\Halogen Lighting\Convertible\ADA Compliant \ Not Connectable \ Est Drop Date = JAN-22
+JVX5360DJWW	36" Under the Cabinet  Hood\310 CFM\Halogen Lighting\Convertible\ADA Compliant
+UVC7300SLSS	30" Insert\390 CFM\LED Lighting\Convertible \ Not Connectable
+JRP20BJBB	24" Width\Slf Cln\Trad Oven\Elec Cntrls \ Not Connectable
+JRP28BJBB	24" Width\Dbl Elec\Slf & Std Cln\Trad Oven (Both)\Elec Cntrls \ Not Connectable
+JRS06SKSS	24" Width\Std Cln\Trad Oven\Elec Cntrls \ Not Connectable
+JRP20SKSS	24" Width\Slf Cln\Trad Oven\Elec Cntrls \ Not Connectable
+JRP28SKSS	24" Width\Dbl Elec\Slf & Std Cln\Trad Oven (Both)\Elec Cntrls \ Not Connectable
+JRP20WJWW	24" Width\Slf Cln\Trad Oven\Elec Cntrls \ Not Connectable
+JK3800SHSS	27" Width\Slf & Stm Cln \ Not Connectable
+JKS5000DNBB	27" Width\Slf & Stm Cln\Conv Oven\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb\ADA Compliant \ Built in WIFI
+JKD5000DNBB	27" Width\Dbl Elec\Slf & Stm Cln\Conv (Upper), Trad (Lower)\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb \ Built in WIFI
+JKS5000ENES	27" Width\Slf & Stm Cln\Conv Oven\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb\ADA Compliant \ Built in WIFI
+JKD5000ENES	27" Width\Dbl Elec\Slf & Stm Cln\Conv (Upper), Trad (Lower)\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb \ Built in WIFI
+JKS3000SNSS	27" Width\Slf & Stm Cln\Trad Oven\Glass-Tch Cntrls\ADA Compliant \ Built in WIFI
+JKS5000SNSS	27" Width\Slf & Stm Cln\Conv Oven\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb\ADA Compliant \ Built in WIFI
+JKD3000SNSS	27" Width\Dbl Elec\Slf & Stm Cln\Trad Oven (Both)\Glass-Tch Cntrls \ Built in WIFI
+JKD5000SNSS	27" Width\Dbl Elec\Slf & Stm Cln\Conv (Upper), Trad (Lower)\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb \ Built in WIFI
+JKS3000DNWW	27" Width\Slf & Stm Cln\Trad Oven\Glass-Tch Cntrls\ADA Compliant \ Built in WIFI
+JKD3000DNWW	27" Width\Dbl Elec\Slf & Stm Cln\Trad Oven (Both)\Glass-Tch Cntrls \ Built in WIFI
+JT3800SHSS	30" Width\Slf & Stm Cln \ Not Connectable
+JTS5000DNBB	30" Width\Slf & Stm Cln\Conv Oven\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb\ADA Compliant \ Built in WIFI
+JTD5000DNBB	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Upper), Trad (Lower)\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb \ Built in WIFI
+JTS5000ENES	30" Width\Slf & Stm Cln\Conv Oven\Hidden Backlit LCD Cntrl\2x Roller Rck, Meat Prb\ADA Compliant \ Built in WIFI
+JTD5000ENES	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Upper), Trad (Lower)\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb \ Built in WIFI
+JTS3000SNSS	30" Width\Slf & Stm Cln\Trad Oven\Glass-Tch Cntrls\ADA Compliant \ Built in WIFI
+JTS5000SNSS	30" Width\Slf & Stm Cln\Conv Oven\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb\ADA Compliant \ Built in WIFI
+JTD3000SNSS	30" Width\Dbl Elec\Slf & Stm Cln\Trad Oven (Both)\Glass-Tch Cntrls \ Built in WIFI
+JTD5000SNSS	30" Width\Dbl Elec\Slf & Stm Cln\Conv (Upper), Trad (Lower)\Hidden Backlit LCD Cntrl\1x Roller Rck, Meat Prb \ Built in WIFI
+JTS3000DNWW	30" Width\Slf & Stm Cln\Trad Oven\Glass-Tch Cntrls\ADA Compliant \ Built in WIFI
+JTD3000DNWW	30" Width\Dbl Elec\Slf & Stm Cln\Trad Oven (Both)\Glass-Tch Cntrls \ Built in WIFI
+AJCQ08AWH	Std Mount\26" Width\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+AJCQ10AWH	Std Mount\26" Width\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+AJCQ12AWH	Std Mount\26" Width\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+AJCQ12DWH	Std Mount\26" Width\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+AJEQ12DWH	Prem Guard Corrosion Protection\Wall Thermostat Capable\Std Mount\26" Width\ADA Compliant \ Built in WIFI
+AJCM10DWH	High Mount\26" Width\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+AJCM12DWH	High Mount\26" Width\ENERGY STAR® Qualified\ADA Compliant \ Built in WIFI
+AKCQ08ACH	\ADA Compliant \ Not Connectable
+AKCQ10ACH	\ADA Compliant \ Not Connectable
+AKCQ12ACH	\ADA Compliant \ Not Connectable
+AKCQ10DCH	\ADA Compliant \ Not Connectable
+AKCQ12DCH	\ADA Compliant \ Not Connectable
+AKCQ14DCH	\ADA Compliant \ Not Connectable
+AKEQ10DCH	Not Connectable
+AKEQ12DCH	Not Connectable
+AKEQ14DCH	Not Connectable
+APCA09YZMW	Portable\Cool Only\115V\8,500 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+APCA10YZMW	Portable\Cool Only\115V\10,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+APCA12YZMW	Portable\Cool Only\115V\12,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+APCA14YZMW	Portable\Cool Only\115V\13,500 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+APWA14YZMW	Portable\Cool Only\115V\13,500 BTU\Elec Cntrl\Sgl Hose \ Built in WIFI
+APWD07JASG	Portable\Cool Only\115V\Elec Cntrl\Sgl Hose \ Built in WIFI
+APSA13YZMW	Portable\Heat/Cool\115V\13,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+APSD08JASG	Portable\Heat/Cool\115V\8,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+AHQ06LZ	Not Connectable
+AHY08LZ	Built in WIFI
+AHY10LZ	Built in WIFI
+AKLK10AA	Window\Cool Only\115V\10,000 BTU\Elec Cntrl\ENERGY STAR® Qualified \ Built in WIFI
+AHY12LZ	Window\Cool Only\115V\12,000 BTU\Elec Cntrl\ENERGY STAR® Qualified \ Built in WIFI
+AKLK14AA	Window\Cool Only\115V\14,000 BTU\Elec Cntrl\ENERGY STAR® Qualified \ Built in WIFI
+AHY14LZ	Cool Only\115V\14,000 BTU\Elec Cntrl\ENERGY STAR® Qualified \ Built in WIFI
+AHV05LZ	Not Connectable
+AHE08AZ	Not Connectable
+AEE08AT	Window\Heat/Cool\115V\8,000 BTU\Elec Cntrl
+AHE12DZ	Not Connectable
+AHE18DZ	Not Connectable
+AHE24DZ	Not Connectable
+AEE12DT	Window\Heat/Cool\230/208V\12,000 BTU\Elec Cntrl
+AEE18DT	Window\Heat/Cool\230/208V\18,000 BTU\Elec Cntrl
+AEE24DT	Window\Heat/Cool\230/208V\24,000 BTU\Elec Cntrl
+ARC13AHCB	Not Connectable
+ARC13AACB	Roof Mount (RV) \ Not Connectable
+ARC13AHCW	Not Connectable
+ARC13AACW	Roof Mount (RV) \ Not Connectable
+ARC15AACB	Roof Mount (RV) \ Not Connectable
+ARC15AACW	Roof Mount (RV) \ Not Connectable
+ARH15AACB	Roof Mount (RV) \ Not Connectable
+ARH15AACW	Roof Mount (RV) \ Not Connectable
+FCM5SKWW	5.0 CuFt\Chest\Manual Defrost\Wire Baskets
+FCM7SKWW	7.0 CuFt\Chest\Manual Defrost\Wire Baskets
+FCM11SRWW	11.0 CuFt\Chest\Manual Defrost\Plastic Baskets\LED Lighting\ENERGY STAR® Qualified \ Not Connectable
+FCM9SRWW	9.0 CuFt\Chest\Manual Defrost\Plastic Baskets\LED Lighting \ Not Connectable
+FCM16SLWW	16.0 CuFt\Chest\Manual Defrost\Plastic Baskets \ Not Connectable
+FCM16DLWW	16.0 CuFt\Chest\Manual Defrost\Plastic Baskets\ENERGY STAR® Qualified \ Not Connectable
+FCM22DLWW	22.0 CuFt\Chest\Manual Defrost\Plastic Baskets\ENERGY STAR® Qualified \ Not Connectable
+FUF14DLRWW	14.0 CuFt\Upright\Frost Free\Glass Shlv\ENERGY STAR® Qualified \ Not Connectable
+FUF14SMRWW	14.0 CuFt\Upright\Frost Free\Wire Shlv \ Not Connectable
+FUF17SMRWW	17.0 CuFt\Upright\Frost Free\Wire Shlv \ Not Connectable
+FUF17DLRWW	17.0 CuFt\Upright\Frost Free\Glass Shlv\ENERGY STAR® Qualified \ Not Connectable
+FUF21DLRWW	21.0 CuFt\Upright\Frost Free\Glass Shlv\ENERGY STAR® Qualified \ Not Connectable
+FUF21SMRWW	21.0 CuFt\Upright\Frost Free\Wire Shlv \ Not Connectable
+GBE21DGKBB	30" Std-Depth\21.0 CuFt\2 Dr Swng\Non-Dispense\XWF Filter\ENERGY STAR® Qualified
+GBE21DYKFS	ConnectPlus Ready
+GBE17HYRFS	30" Counter-Depth\2 Dr Swng\Non-Dispense\LED Lighting\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GLE12HSPSS	\ADA Compliant \ Not Connectable
+GBE21DGKWW	30" Std-Depth\21.0 CuFt\2 Dr Swng\Non-Dispense\XWF Filter\ENERGY STAR® Qualified
+GDE21EGKBB	30" Std-Depth\21.0 CuFt\2 Dr w/Drwr\Non-Dispense\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified
+GDE21EMKES	30" Std-Depth\21.0 CuFt\2 Dr w/Drwr\Non-Dispense\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified
+GDE21EYKFS	ConnectPlus Ready
+GDE25EYKFS	ConnectPlus Ready
+GDE21EGKWW	30" Std-Depth\21.0 CuFt\2 Dr w/Drwr\Non-Dispense\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified
+GNE25JGKBB	33" Std-Depth\25.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified
+GWE19JGLBB	33" Counter-Depth\19.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+GNE27JGMBB	36" Std-Depth\27.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+GNE25JMKES	33" Std-Depth\25.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified
+GWE19JMLES	33" Counter-Depth\19.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+GNE27JMMES	36" Std-Depth\27.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+GNE29GMKES	36" Std-Depth\29.0 CuFt\3 Dr French\Non-Dispense\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified
+GNE21FYKFS	ConnectPlus Ready
+GNE27EYMFS	ConnectPlus Ready
+GNE25JYKFS	ConnectPlus Ready
+GWE19JYLFS	ConnectPlus Ready
+GNE27JYMFS	ConnectPlus Ready
+GNE29GYNFS	36" Std-Depth\29.0 CuFt\3 Dr French\Non-Dispense\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+GNE25JGKWW	33" Std-Depth\25.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified
+GWE19JGLWW	33" Counter-Depth\19.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+GNE27JGMWW	36" Std-Depth\27.0 CuFt\3 Dr French\Internal Dispnr\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+GFE24JGKBB	33" Std-Depth\24.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant
+GFE26JGMBB	36" Std-Depth\26.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GYE18JEMDS	33" Counter-Depth\18.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GFE26JEMDS	36" Std-Depth\26.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GFE28GELDS	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GFE28GMKES	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant
+GFE24JMKES	33" Std-Depth\24.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant
+GFE26JMMES	36" Std-Depth\26.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GYE18JMLES	33" Counter-Depth\18.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GFE26JYMFS	\ADA Compliant \ ConnectPlus Ready
+GFE24JYKFS	\ADA Compliant \ ConnectPlus Ready
+GYE18JYLFS	\ADA Compliant \ ConnectPlus Ready
+GFE28GYNFS	36" Std-Depth\28.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GFE24JGKWW	33" Std-Depth\24.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant
+GFE26JGMWW	36" Std-Depth\26.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\XWF Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GME04GGKBB	4.4 CuFt\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant
+GDE03GGKBB	3.1 CuFt\Dual Dr\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant
+GCE06GGHBB	5.6 CuFt\B/I Capable\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant
+GME04GLKLB	4.4 CuFt\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant
+GDE03GLKLB	3.1 CuFt\Dual Dr\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant
+GCE06GSHSB	5.6 CuFt\B/I Capable\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant
+GDE03GGKWW	3.1 CuFt\Dual Dr\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant
+GCE06GGHWW	5.6 CuFt\B/I Capable\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant
+GYE22GENDS	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GYE22GMNES	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GYE22GYNFS	36" Counter-Depth\22.0 CuFt\3 Dr French\Extrnl Dispnr\Std Ice & Water\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+GWE23GENDS	36" Counter-Depth\23.0 CuFt\3 Dr French\Internal Dispnr\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+GWE23GMNES	36" Counter-Depth\23.0 CuFt\3 Dr French\Internal Dispnr\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+GWE23GYNFS	36" Counter-Depth\23.0 CuFt\3 Dr French\Internal Dispnr\RPWFE Filter\Shabbos Keeper Comp\ENERGY STAR® Qualified \ ConnectPlus Ready
+GZS22DGJBB	Counter-Depth\22.0 CuFt\36" Width\Non-Hidden Hinge\Extrnl Dispnr\XWF Filter
+GZS22IENDS	Counter-Depth\22.0 CuFt\36" Width\Hidden Hinge\Extrnl Dispnr\XWF Filter \ Not Connectable
+GZS22IMNES	Counter-Depth\22.0 CuFt\36" Width\Hidden Hinge\Extrnl Dispnr\XWF Filter \ Not Connectable
+GZS22DMJES	Counter-Depth\22.0 CuFt\36" Width\Non-Hidden Hinge\Extrnl Dispnr\XWF Filter
+GZS22IYNFS	Counter-Depth\22.0 CuFt\36" Width\Hidden Hinge\Extrnl Dispnr\XWF Filter \ Not Connectable
+GZS22DSJSS	Counter-Depth\22.0 CuFt\36" Width\Non-Hidden Hinge\Extrnl Dispnr\XWF Filter
+GZS22DGJWW	Counter-Depth\22.0 CuFt\36" Width\Non-Hidden Hinge\Extrnl Dispnr\XWF Filter
+GSS25GGPBB	RJ45 Newfi only
+GSS25IGNBB	Std-Depth\25.0 CuFt\36" Width\Hidden Hinge\Extrnl Dispnr\XWF Filter \ Not Connectable
+GSS23GGPBB	RJ45 Newfi only
+GSE23GGPBB	RJ45 Newfi only
+GSE25GGPBB	RJ45 Newfi only
+GSS25GGPCC	RJ45 Newfi only
+GSS23GGPCC	RJ45 Newfi only
+GSS25IENDS	Std-Depth\25.0 CuFt\36" Width\Hidden Hinge\Extrnl Dispnr\XWF Filter \ Not Connectable
+GSS25GMPES	RJ45 Newfi only
+GSS23GMPES	RJ45 Newfi only
+GSS25IMNES	Std-Depth\25.0 CuFt\36" Width\Hidden Hinge\Extrnl Dispnr\XWF Filter \ Not Connectable
+GSS25GYPFS	RJ45 Newfi only
+GSS23GYPFS	RJ45 Newfi only
+GSE23GYPFS	Std-Depth\23.0 CuFt\Non-Hidden Hinge\Extrnl Ice,Water Dispnr\XWFE Filter\Sabbath Mode\ENERGY STAR® Qualified \ RJ45 Newfi only
+GSE25GYPFS	Std-Depth\25.2 CuFt\Non-Hidden Hinge\Extrnl Ice,Water Dispnr\XWFE Filter\Sabbath Mode\ENERGY STAR® Qualified \ RJ45 Newfi only
+GSS25IYNFS	Std-Depth\25.0 CuFt\36" Width\Hidden Hinge\Extrnl Dispnr\XWF Filter \ Not Connectable
+GSS25GGPWW	RJ45 Newfi only
+GSS25IGNWW	Std-Depth\25.0 CuFt\36" Width\Hidden Hinge\Extrnl Dispnr\XWF Filter \ Not Connectable
+GSS23GGPWW	RJ45 Newfi only
+GSE23GGPWW	RJ45 Newfi only
+GSE25GGPWW	RJ45 Newfi only
+GTS17DTNRBB	17.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ADA Compliant \ Not Connectable
+GTE17DTNRBB	17.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTS18DTNRBB	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready \ Not Connectable
+GTS18GTNRBB	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready \ Not Connectable
+GTE17GTNRBB	17.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTE18DTNRBB	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified \ Not Connectable
+GPE12FGKBB	12.0 CuFt\24" Width CCO\Center Pocket Hndl\Smth Gloss Fnsh\Glass FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant
+GTS18HGNRBB	18.0 CuFt\28" Width  CCO\Trad Hndls\Smth Gloss Fnsh\Glass FF Shlv,Snack Drwr\Glass FZ Shlf\IM Ready \ Not Connectable
+GTS19KGNRBB	19.0 CuFt\30" Width CCO\Trad Hndls\Smth Gloss Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable
+GTE18GTNRBB	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified \ Not Connectable
+GIE18DTNRBB	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified \ Not Connectable
+GTE19DTNRBB	19.0 CuFt\30" Width CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv,Prem Inner Dr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GIE18GTNRBB	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified \ Not Connectable
+GTE19JTNRBB	19.0 CuFt\30" Width CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv,Prem Inner Dr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTS22KGNRBB	22.0 CuFt\33" Width CCO\Trad Hndls\Smth Gloss Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable
+GTE21GTHBB	21.0 CuFt\33" Width CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant
+GIE21GTHBB	21.0 CuFt\33" Width CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified\ADA Compliant
+GTE17DTNRCC	17.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTE16DTNRCC	16.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTE18GTNRCC	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified \ Not Connectable
+GTE21GTHCC	21.0 CuFt\33" Width CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant
+GTS22KMNRDS	22.0 CuFt\33" Width CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable
+GTS18HMNRES	18.0 CuFt\28" Width  CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Glass FZ Shlf\IM Ready \ Not Connectable
+GTS18HSNRES	Not Connectable \ Est Drop Date = JAN-22
+GTE18GMNRES	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified \ Not Connectable
+GTS19KMNRES	19.0 CuFt\30" Width CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable
+GTS22KMNRES	22.0 CuFt\33" Width CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable
+GIE22JMNRES	22.0 CuFt\33" Width CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTS18HYNRFS	18.0 CuFt\28" Width  CCO\Trad Hndls\Smth Gloss Fnsh\Glass FF Shlv,Snack Drwr\Glass FZ Shlf\IM Ready \ Not Connectable
+GTS19KYNRFS	19.0 CuFt\30" Width CCO\Trad Hndls\Smth Gloss Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable
+GTS22KYNRFS	22.0 CuFt\33" Width CCO\Trad Hndls\Smth Gloss Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable
+GTE18DCNRSA	18.0 CuFt\28" Width  CCO\Trad Hndls\Smth Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified \ Not Connectable
+GIE18GCNRSA	18.0 CuFt\28" Width  CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified \ Not Connectable
+GPE12FSKSB	12.0 CuFt\24" Width CCO\Center Pocket Hndl\Smth Fnsh\Glass FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant
+GTS17GSNRSS	17.0 CuFt\28" Width  CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ADA Compliant \ Not Connectable
+GTS18GSNRSS	18.0 CuFt\28" Width  CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready \ Not Connectable
+GTE17GSNRSS	17.0 CuFt\28" Width  CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTS18HSNRSS	18.0 CuFt\28" Width  CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Glass FZ Shlf\IM Ready \ Not Connectable \ Est Drop Date = JAN-22 \ Transitions to GTS18HYNRFS
+GTE18GSNRSS	18.0 CuFt\28" Width  CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified \ Not Connectable
+GIE17GSNRSS	17.0 CuFt\28" Width  CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTS19KSNRSS	19.0 CuFt\30" Width CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable \ Est Drop Date = JAN-22 \ Transitions to GTS19KYNRFS
+GIE18GSNRSS	18.0 CuFt\28" Width  CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified \ Not Connectable
+GTE18MSRRSS	18.0 CuFt\30" Width CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Prem Inner Dr\Wire FZ Shlf,FZ Cntrl\ENERGY STAR® Qualified \ Not Connectable
+GTS22KSNRSS	22.0 CuFt\33" Width CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable \ Est Drop Date = JAN-22 \ Transitions to GTS22KYNRFS
+GTE19JSNRSS	19.0 CuFt\30" Width CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GIE19JSNRSS	19.0 CuFt\30" Width CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTE21GSHSS	21.0 CuFt\33" Width CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant
+GIE21GSHSS	21.0 CuFt\33" Width CCO\Trad Hndls\Smth Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified\ADA Compliant
+GTS16DTNRWW	16.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready \ Not Connectable
+GTS17DTNRWW	17.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ADA Compliant \ Not Connectable
+GTS17GTNRWW	17.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ADA Compliant \ Not Connectable
+GPE17CTNRWW	17.0 CuFt\28" Width  CCO\Side Pocket Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTE17DTNRWW	17.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTS18DTNRWW	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready \ Not Connectable
+GTS18GTNRWW	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready \ Not Connectable
+GTE16DTNLWW	16.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTE16DTNRWW	16.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTE17GTNRWW	17.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTE18DTNRWW	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified \ Not Connectable
+GPE12FGKWW	12.0 CuFt\24" Width CCO\Center Pocket Hndl\Smth Gloss Fnsh\Glass FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant
+GTS18HGNRWW	18.0 CuFt\28" Width  CCO\Trad Hndls\Smth Gloss Fnsh\Glass FF Shlv,Snack Drwr\Glass FZ Shlf\IM Ready \ Not Connectable
+GTS19KGNRWW	19.0 CuFt\30" Width CCO\Trad Hndls\Smth Gloss Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable
+GTE18GTNRWW	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified \ Not Connectable
+GIE18DTNRWW	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified \ Not Connectable
+GTE19DTNRWW	19.0 CuFt\30" Width CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv,Prem Inner Dr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GIE18GTNRWW	18.0 CuFt\28" Width  CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified \ Not Connectable
+GTE19JTNRWW	19.0 CuFt\30" Width CCO\Trad Hndls\Txt Fnsh\Wire FF Shlv,Prem Inner Dr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+GTS22KGNRWW	22.0 CuFt\33" Width CCO\Trad Hndls\Smth Gloss Fnsh\Glass FF Shlv,Snack Drwr,Prem Inner Dr\Glass FZ Shlf,FZ Cntrl\IM Ready \ Not Connectable
+GTE21GTHWW	21.0 CuFt\33" Width CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant
+GIE21GTHWW	21.0 CuFt\33" Width CCO\Trad Hndls\Txt Fnsh\Glass FF Shlv,Snack Drwr\Wire FZ Shlf\Factory Inst IM\ENERGY STAR® Qualified\ADA Compliant
+GVS04BQNSS	19" Width\B/I Capable\4.1 CuFt\125 Cans or 31 Bottles\ADA Compliant \ Not Connectable
+GWS04HAESS	19" Width\B/I Capable\4.1 CuFt\ADA Compliant
+HDA2100HBB	Plastic Tub\Front Cntrl\Pocket Hndl\Short Dr\64 dBA\12 Place Settings \ Est Drop Date = APR-22 \ Transitions to HDF310PGRBB
+HDA2100HCC	Plastic Tub\Front Cntrl\Pocket Hndl\Short Dr\64 dBA\12 Place Settings \ Est Drop Date = APR-22 \ Transitions to HDF310PGRCC
+HDA2100HWW	Plastic Tub\Front Cntrl\Pocket Hndl\Short Dr\64 dBA\12 Place Settings \ Est Drop Date = APR-22 \ Transitions to HDF310PGRWW
+HDF310PGRBB	ConnectPlus Ready
+HDF310PGRWW	ConnectPlus Ready
+HTX24EASKWS	27" Width\6.2 CuFt\Long Vent (up to 120 Ft)\27" Depth
+HTX24GASKWS	27" Width\6.2 CuFt\Long Vent (up to 120 Ft)\27" Depth
+HTW240ASKWS	27" Width\3.8 CuFt\Stainless Steel Tub\Heavy Duty Agitator\27" Depth
+RVM5160DHBB	1,000W\1.6 CuFt\200 CFM
+RVM5160MPSA	Not Connectable
+RVM5160DHWW	1,000W\1.6 CuFt\200 CFM
+RAS200DMWW	20" FS\Coil RG\4 Element\Std Cln\Sgl Oven\Trad Bake\Nickel Rcks\ADA Compliant \ Not Connectable
+RGAS200DMWW	20" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+RAS240DMSS	Not Connectable
+RAS300DMWW	24" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks\ADA Compliant \ Not Connectable
+RAS240DMWW	24" FS\Coil RG\4 Element\Std Cln\Sgl Oven\Trad Bake\Nickel Rcks\ADA Compliant \ Not Connectable
+RGAS300DMWW	24" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+RBS160DMBB	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+RBS360DMBB	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+RBS330DRBB	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+RBS160DMWW	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+RBS360DMWW	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+RBS330DRWW	30" FS\Coil RG\4 Element\Std Cln\Sgl Oven w/ Storage Drwr\Trad Bake\Nickel Rcks \ Not Connectable
+RGBS300DMBB	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+RGBS330DRBB	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+RGBS400DMBB	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake \ Not Connectable
+RGBS300DMWW	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+RGBS330DRWW	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+RGBS400DMWW	30" FS\Gas RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake \ Not Connectable
+RGBS200DMWW	30" FS\Battery Ignition RG\4 Burners\Std Cln\Sgl Oven w/ Broil Drwr\Trad Bake\ADA Compliant \ Not Connectable
+HCM4SMWW	4.0 CuFt\Chest\Manual Defrost\Wire Baskets \ Not Connectable
+HUF13STRWW	Upright\Frost Free\Glass Shlv\Temp Alarm\LED Lighting\ADA Compliant \ Not Connectable
+HME02GGMBB	1.7 CuFt\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+HME03GGMBB	2.7 CuFt\Glass Shlv\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+HPS18BTNRBB	18.0 CuFt\28" Width  CCO\Side Pocket Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready \ Not Connectable
+HPS16BTNRBB	16.0 CuFt\28" Width  CCO\Side Pocket Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ADA Compliant \ Not Connectable
+HPS18BTNRWW	18.0 CuFt\28" Width  CCO\Side Pocket Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready \ Not Connectable
+HPS16BTNLWW	16.0 CuFt\28" Width  CCO\Side Pocket Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ADA Compliant \ Not Connectable
+HPS16BTNRWW	16.0 CuFt\28" Width  CCO\Side Pocket Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ADA Compliant \ Not Connectable
+HPE16BTNLWW	16.0 CuFt\28" Width  CCO\Side Pocket Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+HPE16BTNRWW	16.0 CuFt\28" Width  CCO\Side Pocket Hndls\Txt Fnsh\Wire FF Shlv\Wire FZ Shlf\IM Ready\ENERGY STAR® Qualified\ADA Compliant \ Not Connectable
+QDP555SYNFS	Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\50 dBA\16 Place Settings\ENERGY STAR® Qualified \ Built in WIFI
+QDT125SSLSS	18" Stainless Tub\Top Cntrl\Pocket Hndl\Long Dr\47 dBA\8 Place Settings\ENERGY STAR® Qualified\ADA Compliant \ ConnectPlus Ready
+QFD15ESSNWW	24" Width\4.1 CuFt\Vented\24" Depth\ENERGY STAR® Qualified \ Built in WIFI
+QFW150SSNWW	24" Width\2.8 CuFt\Stainless Steel Basket\25" Depth\ENERGY STAR® Qualified \ Built in WIFI
+QFT15ESSNWW	24" Width\4.1 CuFt\Ventless Condenser\24" Depth\ENERGY STAR® Qualified \ Built in WIFI
+QVM7167RNSS	1.6 CuFt\300 CFM\Sensor\Stm Cook\WiFi Connect \ Built in WIFI
+HMV1472BHS	1,000W\1.4 CuFt\300 CFM\Sensor\Stm
+QAS740RMSS	24" S/I\Radiant RG\4 Element\Stm Cln\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks\ADA Compliant \ Not Connectable
+QSS740RNSS	30" S/I\Radiant RG\4 Element\Stm Cln\Sgl Oven w/ Storage Drwr\Conv\Nickel Rcks\ADA Compliant \ Built in WIFI
+QGAS740RMSS	24" S/I\Gas RG\4 Burners\Stm Cln\Sgl Oven w/ Storage Drwr\Conv\ADA Compliant \ Not Connectable
+QGSS740RNSS	30" S/I\Gas RG\4 Burners\Stm Cln\Sgl Oven w/ Storage Drwr\Conv\ADA Compliant \ Built in WIFI
+QVE801DTWW	Not Connectable
+QVE110DTWW	Not Connectable
+HCW2360AES	24" Width\Slf Cln\Conv Oven\LCD w/ Sensor Tch Cntrls
+HCW225LAES	24" Width\Sgl Elec w/ LH side-swng Dr\Std Cln\Conv Oven\LCD w/ Sensor Tch Cntrls \ Est Drop Date = JAN-22 \ Transitions to HCW2360AES 01/11/2022
+HCW225RAES	24" Width\Sgl Elec w/ RH side-swng Dr\Std Cln\Conv Oven\LCD w/ Sensor Tch Cntrls \ Est Drop Date = JAN-22 \ Transitions to HCW2360AES 01/11/2022
+QPFA08YBMW	Portable\Cool Only\115V\8,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+QPFA10YBMW	Portable\Cool Only\115V\10,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+QPCA11YBMW	Portable\Cool Only\115V\11,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+QPCA10YZMW	Portable\Cool Only\115V\10,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable \ Est Drop Date = APR-22
+QPCA12YZMW	Portable\Cool Only\115V\12,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+QPCA14YZMW	Portable\Cool Only\115V\13,500 BTU\Elec Cntrl\Sgl Hose \ Not Connectable \ Est Drop Date = APR-22
+QPWA14YZMW	Portable\Cool Only\115V\13,500 BTU\Elec Cntrl\Sgl Hose \ Built in WIFI \ Est Drop Date = APR-22
+QPCA09YZMW	Portable\Cool Only\115V\8,500 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+QPCA08JAMW	Portable\Cool Only\115V\8,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+QPCA10YBMW	Portable\Cool Only\115V\10,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable
+QPSA13YZMW	Portable\Heat/Cool\115V\13,000 BTU\Elec Cntrl\Sgl Hose \ Not Connectable \ Est Drop Date = APR-22
+QHEE06AC	Window\Cool Only\115V\6,000 BTU\Elec Cntrl \ Not Connectable
+QHEK08AC	Window\Cool Only\115V\8,000 BTU\Elec Cntrl\ENERGY STAR® Qualified \ Built in WIFI
+ESAQ406TZ	Not Connectable
+QHEK10AC	Window\Cool Only\115V\10,000 BTU\Elec Cntrl\ENERGY STAR® Qualified \ Built in WIFI
+QHEK12AC	Window\Cool Only\115V\12,000 BTU\Elec Cntrl\ENERGY STAR® Qualified \ Built in WIFI
+QHEK14AC	Window\Cool Only\115V\14,000 BTU\Elec Cntrl\ENERGY STAR® Qualified \ Built in WIFI
+QHEC05AC	Window\Cool Only\115V\5,000 BTU\Mechanical Cntrl \ Not Connectable
+HF50CW20W	
+QJS15HYRFS	14.5 CuFt \ Not Connectable
+QHE16HYPFS	Not Connectable
+QNE27JYMFS	ConnectPlus Ready
+HRB15N3BGS	28" Counter-Depth\15.0 CuFt\2 Dr Swng\Non-Dispense\Sabbath Mode\ENERGY STAR® Qualified
+HRF15N3AGS	Est Drop Date = JAN-22 \ Transitions to QJS15HYRFS
+HA10TG21SB	10.0 CuFt\24" Width CCO\Center Pocket Hndl\Smth Fnsh\Glass FF Shlv\Glass FZ Shlf \ Not Connectable
+HA10TG21SS	10.0 CuFt\24" Width CCO\Center Pocket Hndl\Smth Fnsh\Glass FF Shlv\Glass FZ Shlf \ Not Connectable
+HA10TG21SW	10.0 CuFt\24" Width CCO\Center Pocket Hndl\Smth Fnsh\Glass FF Shlv\Glass FZ Shlf \ Not Connectable
+HEBF100BXS	20.5" Width\150 Cans\ADA Compliant
