@@ -19,17 +19,17 @@ costco = 3
 '''
 URLS_INDEX = 0
 
-bestbuy_page_begin =6925+1
-bestbuy_page_end = 6930
+bestbuy_page_begin =6944+1
+bestbuy_page_end = 
 
-lowes_page_begin = 6329+1
-lowes_page_end = 6330
+lowes_page_begin = 6334+1
+lowes_page_end = 
 
-almo_page_begin = 4703+1
-almo_page_end = 4703
+almo_page_begin = 4705+1
+almo_page_end = 
 
-costco_page_begin = 17217+1
-costco_page_end = 17217
+costco_page_begin = 17329+1
+costco_page_end = 
 
 item_running = []
 item_without_money = [] 
