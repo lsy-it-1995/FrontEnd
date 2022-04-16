@@ -19,7 +19,7 @@ states = {
     'CA' : ['ca', 'nv', 'ut', 'az'],
     'WA' : ['wa', 'or', 'id', 'mt'],
     'TX' : ['co', 'nm', 'tx', 'ks', 'ok', 'ar', 'la'],
-    'IL' : ['mn', 'ia', 'ne', 'mo', 'wi', 'il', 'mi', 'in', 'ky', 'oh'],
+    'IL' : ['mn', 'ia', 'ne', 'mo', 'wi', 'il', 'mi', 'in', 'ky', 'oh','sd','nd','wy'],
     'GA' : ['ms', 'tn', 'al', 'ga', 'sc', 'nc'],
     'FL' : ['fl'],
     'NJ' : ['me', 'vt', 'nh', 'ma', 'ct', 'ri', 'ny', 'nj', 'pa', 'md', 'de', 'wv', 'va']
