@@ -19,16 +19,16 @@ costco = 3
 '''
 URLS_INDEX = 0
 
-bestbuy_page_begin =6990+1
-bestbuy_page_end = 
+bestbuy_page_begin = 7056+1
+bestbuy_page_end =
 
-lowes_page_begin = 6349+1
+lowes_page_begin = 6372+1
 lowes_page_end = 
 
-almo_page_begin = 4727+1
+almo_page_begin = 4751+1
 almo_page_end = 
 
-costco_page_begin = 17587+1
+costco_page_begin = 17893+1
 costco_page_end = 
 
 item_running = []
