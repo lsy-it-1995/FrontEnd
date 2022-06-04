@@ -19,20 +19,20 @@ costco = 3
 '''
 URLS_INDEX = 0
 
-bestbuy_page_begin = 7056+1
-bestbuy_page_end =
+bestbuy_page_begin = 7175+1
+bestbuy_page_end = 7228
 
-lowes_page_begin = 6372+1
-lowes_page_end = 
+lowes_page_begin = 6400+1
+lowes_page_end = 6431
 
-almo_page_begin = 4751+1
-almo_page_end = 
+almo_page_begin = 4776+1
+almo_page_end = 4798
 
-costco_page_begin = 17893+1
-costco_page_end = 
+costco_page_begin = 18244+1
+costco_page_end = 18408
 
 item_running = []
-item_without_money = [] 
+item_without_money = []
 item_cancel = []
 text_not_found = []
 
@@ -80,116 +80,120 @@ def reverse(s):
 
 def getTitle(soup):
     try:
-        title = soup.find('h1', itemprop="name").getText()
-    except:
         try:
-            title = soup.find('div', class_="product-name").getText()
-        except Exception as e:
-            print("error in getTitle")
-            print(e)
+            title = soup.find('h1', itemprop="name").getText()
+        except:
+            try:
+                title = soup.find('div', class_="product-name").getText()
+            except Exception as e:
+                print("error in getTitle")
+                print(e)
+                return "none"
+        if title.find("$") == -1:
+            return "noMoney"
+        if  URLS_INDEX == 3:
+            open = "("
+            close = ")"
+            start = title.index(open)
+            end = title.index(close)
+            global manifest
+            manifest = title[start+1:end]
+        state = ""
+        city = ""
+        price = ""
+        condition = ""
+        units = ""
+        type = ""
+        title = title.lower()
+        title = title.replace(", msrp", "")
+        title = title.replace(", ext. retail", "")
+        title = title.replace(", retail", "")
+        title = title.replace("retail", "")
+        newtitle = ""
+        invalid = False
+        
+        for idx, val in enumerate(title):
+            if val == '(':
+                invalid = True
+            elif val == ')':
+                invalid = False
+            if not invalid:
+                newtitle += val
+        newtitle = newtitle.replace(")", "")
+        if newtitle.find("units"):
+            newtitle = newtitle.replace("units", "").strip()
+        elif newtitle.find("unit"):
+            newtitle = newtitle.replace("unit", "").strip()
+        elif newtitle.find("sets"):
+            newtitle = newtitle.replace("sets", "").strip()
+        elif newtitle.find("set"):
+            newtitle = newtitle.replace("set", "").strip()
+        newtitle = newtitle.replace(", ,", ",")
+        newtitle = newtitle.replace("  ", " ")
+        newtitle = newtitle.replace(" ","") 
+        comma_counter = 0
+        for c in reversed(newtitle):
+            if comma_counter == 2 and c == '$':
+                comma_counter += 1
+                continue
+            if c == ',':
+                if comma_counter == 0 and len(state) != 0:
+                    comma_counter += 1
+                elif comma_counter == 1 and len(city) != 0:
+                    comma_counter += 1
+                elif comma_counter == 3 and len(condition) != 0:
+                    comma_counter += 1
+                elif comma_counter == 4 and len(units) != 0:
+                    comma_counter += 1
+            if comma_counter == 0:
+                state += c
+            elif comma_counter == 1:
+                city += c
+            elif comma_counter == 2:
+                price += c
+            elif comma_counter == 3:
+                condition += c
+            elif comma_counter == 4:
+                units += c
+            elif comma_counter == 5:
+                type += c
+        state = reverse(state)
+        city = reverse(city)
+        price = reverse(price)
+        condition = reverse(condition)
+        units = reverse(units)
+        type = reverse(type)
+        if URLS_INDEX == 2:
+            temp = units
+            units = condition
+            condition = temp
+        condition = condition.replace(",","")
+        city = city.replace(",","")
+        price = price.replace(",","")
+        units = units.replace(",","")
+        machine = type.replace(",","")
+        kitchen = ['refrigerators','microwave','dishwashers', 'range','cooktop','freezers']
+        laundry = ['washers', 'dryers', 'pedestals', 'stackable', 'styler','washTower']
+        iskitchen = False
+        isLaundry = False
+        for k in kitchen:
+            if machine.find(k) != -1:
+                iskitchen = True
+                break
+        for l in laundry:
+            if machine.find(l) != -1:
+                isLaundry = True
+                break
+        if not iskitchen and not isLaundry:
             return "none"
-    if title.find("$") == -1:
-        return "noMoney"
-    if  URLS_INDEX == 3:
-        open = "("
-        close = ")"
-        start = title.index(open)
-        end = title.index(close)
-        global manifest
-        manifest = title[start+1:end]
-    state = ""
-    city = ""
-    price = ""
-    condition = ""
-    units = ""
-    type = ""
-    title = title.lower()
-    title = title.replace(", msrp", "")
-    title = title.replace(", ext. retail", "")
-    title = title.replace(", retail", "")
-    title = title.replace("retail", "")
-    newtitle = ""
-    invalid = False
-    
-    for idx, val in enumerate(title):
-        if val == '(':
-            invalid = True
-        elif val == ')':
-            invalid = False
-        if not invalid:
-            newtitle += val
-    newtitle = newtitle.replace(")", "")
-    if newtitle.find("units"):
-        newtitle = newtitle.replace("units", "").strip()
-    elif newtitle.find("unit"):
-        newtitle = newtitle.replace("unit", "").strip()
-    elif newtitle.find("sets"):
-        newtitle = newtitle.replace("sets", "").strip()
-    elif newtitle.find("set"):
-        newtitle = newtitle.replace("set", "").strip()
-    newtitle = newtitle.replace(", ,", ",")
-    newtitle = newtitle.replace("  ", " ")
-    newtitle = newtitle.replace(" ","") 
-    comma_counter = 0
-    for c in reversed(newtitle):
-        if comma_counter == 2 and c == '$':
-            comma_counter += 1
-            continue
-        if c == ',':
-            if comma_counter == 0 and len(state) != 0:
-                comma_counter += 1
-            elif comma_counter == 1 and len(city) != 0:
-                comma_counter += 1
-            elif comma_counter == 3 and len(condition) != 0:
-                comma_counter += 1
-            elif comma_counter == 4 and len(units) != 0:
-                comma_counter += 1
-        if comma_counter == 0:
-            state += c
-        elif comma_counter == 1:
-            city += c
-        elif comma_counter == 2:
-            price += c
-        elif comma_counter == 3:
-            condition += c
-        elif comma_counter == 4:
-            units += c
-        elif comma_counter == 5:
-            type += c
-    state = reverse(state)
-    city = reverse(city)
-    price = reverse(price)
-    condition = reverse(condition)
-    units = reverse(units)
-    type = reverse(type)
-    if URLS_INDEX == 2:
-        temp = units
-        units = condition
-        condition = temp
-    condition = condition.replace(",","")
-    city = city.replace(",","")
-    price = price.replace(",","")
-    units = units.replace(",","")
-    machine = type.replace(",","")
-    kitchen = ['refrigerators','microwave','dishwashers', 'range','cooktop','freezers']
-    laundry = ['washers', 'dryers', 'pedestals', 'stackable', 'styler','washTower']
-    iskitchen = False
-    isLaundry = False
-    for k in kitchen:
-        if machine.find(k) != -1:
-            iskitchen = True
-            break
-    for l in laundry:
-        if machine.find(l) != -1:
-            isLaundry = True
-            break
-    if not iskitchen and not isLaundry:
-        return "none"
-    if isLaundry and iskitchen:
-        return [state, city, price, units, "Mixed"]
-    if isLaundry:
-        return [state, city, price, units, "Laundry"]
-    return [state, city, price, units, "Kitchen"]
+        if isLaundry and iskitchen:
+            return [state, city, price, units, "Mixed"]
+        if isLaundry:
+            return [state, city, price, units, "Laundry"]
+        return [state, city, price, units, "Kitchen"]
+    except Exception as e:
+        print("error in getTitle")
+    return []
 
 def create_column_title(column_titles):
     d = {}
@@ -205,8 +209,8 @@ def scriptDetail(soup, d, page):
     if not names:
         text_not_found.append(page)
         return
-    for i in range(-18, -2):
-        string = str(names[i])
+    for i in range(25):
+        string = str(names[len(names) - i - 1])
         if string.find('mixpanel.track') != -1:
             break;
     key = string.split('mixpanel.track')[1]
@@ -231,13 +235,18 @@ def get_pictures(soup, path):
     ul = soup.find('ul', {"class":"product-image-thumbs"})
     index = 0
     os.chdir(path)
-    for li in ul.find_all('li'):
-        imgLink = li.find('a')
-        png_name = str(index)+".jpg"
-        r = requests.get(imgLink['href'])
-        with open(png_name,"wb") as f:
-            f.write(r.content)
-        index += 1
+    try:
+        for li in ul.find_all('li'):
+            imgLink = li.find('a')
+            png_name = str(index)+".jpg"
+            imgLink = imgLink.find('img')
+            print("img link: " + imgLink['src'])
+            r = requests.get(imgLink['src'])
+            with open(png_name,"wb") as f:
+                f.write(r.content)
+            index += 1
+    except Exception as e:
+        print("index error: " + str(e) + str(index));
     return index
 
 def move_picture(path, pic_len):
@@ -248,9 +257,10 @@ def move_picture(path, pic_len):
 
 def start_crawling(page_begin, page_end, market):
     d = create_column_title(titles)
-    driver = webdriver.Chrome('C:/Users/garys/Downloads/chromedriver_win32/chromedriver.exe')
+    driver = webdriver.Chrome(executable_path="C:/Users/garys/Downloads/chromedriver_win32/chromedriver.exe")
     driver_login(driver)
-    decrpytion_failed_list = []
+
+    # decrpytion_failed_list = [7195]
     
     # for page in decrpytion_failed_list:
     for page in range(page_begin, page_end):
@@ -284,9 +294,8 @@ def start_crawling(page_begin, page_end, market):
                     print("No manifest Download available")
             else:
                 file_path = file_path_1 + manifest + file_path_2    
-            if URLS_INDEX == 3:
                 driver.get(file_path)
-            pics_len = get_pictures(soup, folder_path)
+            get_pictures(soup, folder_path)
             time.sleep(2)
             if manifest_found: 
                 move_manifest(folder_path, market, page)
@@ -311,9 +320,7 @@ def start_crawling(page_begin, page_end, market):
             d["units"].append(titleName[3])
             d["percentage"].append(str(round(float(d["current_price"][-1])/float(d["value_price"][-1]),4)))
         except Exception as e:
-            print(str(page) + " start_crawling")
-            print(e)
-    d["market"] = market
+            print(str(page) + ". " + str(e)  + ". start_crawling")
     driver.close()
     return d
 
@@ -329,7 +336,8 @@ def run_file(page_start, page_end):
     elif URLS_INDEX == 3:
         market = "COSTCO"
     data = start_crawling(page_start, page_end, market)
-    df = pd.DataFrame(data)
+    df = pd.DataFrame.from_dict(data, orient = 'index')
+    df = df.transpose()
     file_csv = market + "_" + str(page_start) + "_" + str(page_end) +".csv"
     os.chdir("C:/Users/garys/Desktop/WebApps/B_Stock_Auction/")
     df.to_csv(file_csv, index = False)
