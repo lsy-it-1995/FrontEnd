@@ -41,7 +41,7 @@ def manifest_download(driver, path):
     button = driver.find_element_by_id("manifest-download-btn-top")
     button.click()
 def move_manifest(folder_path, market, id):
-    path = r"C:/Users/garys/Downloads/"
+    path = r"C:/Users/lst/Downloads/"
     extension = '\*csv'
     os.chdir(path)
     files = glob.glob(path+extension)
@@ -51,21 +51,24 @@ def move_manifest(folder_path, market, id):
     shutil.move(path+name, folder_path)
 
 def driver_login(driver):
-    conf = yaml.load(open('C:/Users/garys/Desktop/WebApps/B_Stock_Auction/login.yml'))
+    conf = yaml.safe_load(open('C:/Users/lsy/Desktop/WebApps/B_Stock_Auction/login.yml'))
     username = conf['user']['email']
     password = conf['user']['password']
     driver.get(login_URLS[URLS_INDEX])
     time.sleep(2)
-    driver.find_element_by_id("loginId").send_keys(username)
-    driver.find_element_by_id("password").send_keys(password)
-    driver.find_element_by_xpath("//button[@type='submit']").click()
+    driver.find_element("id", 'loginId').send_keys(username)
+    driver.find_element("id", 'password').send_keys(password)
+
+    # driver.find_element_by_id("loginId").send_keys(username)
+    # driver.find_element_by_id("password").send_keys(password)
+    driver.find_element("xpath","//button[@type='submit']").click()
     time.sleep(1)
 
 def getDate(soup):
     return soup.find('span', id="auction_end_time").getText()
 
 def createFolder(id, market):
-    path = r"C:/Users/garys/Desktop/WebApps/B_Stock_Auction/"+market+"_"+str(id)+"/"
+    path = r"C:/Users/lsy/Desktop/WebApps/B_Stock_Auction/"+market+"_"+str(id)+"/"
     if os.path.exists(path):
         shutil.rmtree(path)
     os.mkdir(path)
@@ -252,23 +255,23 @@ def get_pictures(soup, path):
 def move_picture(path, pic_len):
     for i in range(pic_len):
         png_name = str(i)+".jpg"
-        old_dir = "C:/Users/garys/Desktop/WebApps/B_Stock_Auction/"+png_name
+        old_dir = "C:/Users/lsy/Desktop/WebApps/B_Stock_Auction/"+png_name
         shutil.move(old_dir, path)
 
 def start_crawling(page_begin, page_end, market):
     d = create_column_title(titles)
-    driver = webdriver.Chrome(executable_path="C:/Users/garys/Downloads/chromedriver_win32/chromedriver.exe")
+    driver = webdriver.Chrome(executable_path="C:/Users/lsy/Downloads/chromedriver_win32/chromedriver.exe")
     driver_login(driver)
-
     # decrpytion_failed_list = [7195]
     
     # for page in decrpytion_failed_list:
     for page in range(page_begin, page_end):
         url = inventory_URLS[URLS_INDEX]+ str(page)
         try:
+            
             driver.get(url)
             html = driver.page_source
-            soup = BeautifulSoup(html)
+            soup = BeautifulSoup(html, "html.parser")
             auction_time_remain = auction_time_name(soup)
             if  auction_time_remain == "Auction canceled":
                 item_cancel.append(page)
@@ -326,7 +329,7 @@ def start_crawling(page_begin, page_end, market):
 
 def run_file(page_start, page_end):
     
-    os.chdir("C:/Users/garys/Desktop/WebApps/B_Stock_Auction/")
+    os.chdir("C:/Users/lsy/Desktop/WebApps/B_Stock_Auction/")
     if URLS_INDEX == 0:
         market = "BESTBUY"
     elif URLS_INDEX == 1:
@@ -339,7 +342,7 @@ def run_file(page_start, page_end):
     df = pd.DataFrame.from_dict(data, orient = 'index')
     df = df.transpose()
     file_csv = market + "_" + str(page_start) + "_" + str(page_end) +".csv"
-    os.chdir("C:/Users/garys/Desktop/WebApps/B_Stock_Auction/")
+    os.chdir("C:/Users/lsy/Desktop/WebApps/B_Stock_Auction/")
     df.to_csv(file_csv, index = False)
     
 
