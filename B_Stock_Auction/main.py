@@ -5,11 +5,13 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium import webdriver
 from constant import *
 import pandas as pd
+from selenium.webdriver.chrome.service import Service
 import yaml
 import time
 import os
 import shutil
 import glob
+from pyvirtualdisplay import Display
 
 '''
 bestbuy = 0
@@ -260,7 +262,11 @@ def move_picture(path, pic_len):
 
 def start_crawling(page_begin, page_end, market):
     d = create_column_title(titles)
-    driver = webdriver.Chrome(executable_path="C:/Users/lsy/Downloads/chromedriver_win32/chromedriver.exe")
+    # driver = webdriver.Chrome(executable_path="C:/Users/lsy/Downloads/chromedriver_win32/chromedriver.exe")
+    options = webdriver.ChromeOptions()
+    s=Service('C:/Users/lsy/Downloads/chromedriver_win32/chromedriver.exe')
+    driver = webdriver.Chrome(service=s, options = options)
+
     driver_login(driver)
     # decrpytion_failed_list = [7195]
     
@@ -268,7 +274,6 @@ def start_crawling(page_begin, page_end, market):
     for page in range(page_begin, page_end):
         url = inventory_URLS[URLS_INDEX]+ str(page)
         try:
-            
             driver.get(url)
             html = driver.page_source
             soup = BeautifulSoup(html, "html.parser")
