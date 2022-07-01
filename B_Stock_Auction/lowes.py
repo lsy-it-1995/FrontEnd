@@ -28,6 +28,9 @@ model_list = []
 discounted_price_list = []
 original_price_list = []
 
+scroll = 5
+no_next = 0
+
 def find_substring_title(description):
     titleTag = description.find('a')
     contentHTML = str(titleTag)
@@ -60,20 +63,11 @@ def find_price(prices):
     container = container.find("div",{"class": "prdt-prom"})
     original_price = container.find_all("span", {"class":"was-price"}).text
     print(original_price)
-    return discounted_price, original_price
+    return discount_price, original_price
 
-scroll = 5
-for idx, val in enumerate(links):
-    driver.get(val)
-    driver.maximize_window()
-    time.sleep(3)
-    body = driver.find_element(By.CSS_SELECTOR, 'body')
-    body.send_keys(Keys.PAGE_DOWN)
-    while scroll > 0:
-        body.send_keys(Keys.PAGE_DOWN)
-        scroll -= 1
-        time.sleep(1)
-    
+def loading_stuff(driver):
+    if no_next == 1:
+        return
     html = driver.page_source
     soup = BeautifulSoup(html, "html.parser")
     divs = soup.find_all('div', {"class":"tile_group"})
@@ -88,15 +82,30 @@ for idx, val in enumerate(links):
             title_list.append(title)
             model_list.append(model)
         for price in prices:
-            discounted_price, original_price = find_price(prices)
+            discounted_price, original_price = find_price(price)
             discounted_price_list.append(discounted_price)
             original_price_list.append(original_price)
     try:
-        right_next = div.find_all('a', {"aria-label":"arrow-right"})
         element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "ul.splp-pag-lst a[aria-label='arrow-right']")))
         element.click()
+        loading_stuff(driver)
     except Exception:
+        no_next = 1
         print("no next")
+        
+
+for idx, val in enumerate(links):
+    driver.get(val)
+    driver.maximize_window()
+    time.sleep(3)
+    body = driver.find_element(By.CSS_SELECTOR, 'body')
+    body.send_keys(Keys.PAGE_DOWN)
+    while scroll > 0:
+        body.send_keys(Keys.PAGE_DOWN)
+        scroll -= 1
+        time.sleep(1)
+    no_next = 0
+    loading_stuff(driver)
     driver.implicitly_wait(3) # seconds
 
 
