@@ -13,7 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import re
 import csv
 from itertools import zip_longest
-links = ["https://www.lowes.com/search?searchTerm=lg&catalog=4294857925"]
+links = ["https://www.lowes.com/search?searchTerm=lg&catalog=4294857981"]
 # links = ["https://www.lowes.com/search?searchTerm=lg&catalog=4294857981",
 #         "https://www.lowes.com/search?searchTerm=lg&catalog=4294857973",
 #         "https://www.lowes.com/search?searchTerm=lg&catalog=4294857925"]
@@ -62,7 +62,7 @@ def find_model(description):
 
 def find_price(prices):
     discount_price = 0
-    o_price = 0
+    original_price = 0
     try:
         try:
             container = prices.find("div",{"class": "mlt-price"})
@@ -88,15 +88,41 @@ def find_price(prices):
         print(discount_price)
     except IOError:
         print(IOError)
+    discount_price = discount_price.strip()
+    if len(discount_price) == 0:
+        return 0, 0
     print("--------")
     try: 
-        container = prices.find("div",{"class": "mlt-price"})
-        container = container.find("div",{"class": "prdt-prom"})
-        o_price = driver.find_element(By.XPATH, "//span[@class='was-price']").text
+        try: 
+            container = prices.find("div",{"data-selector": "splp-prd-$"})
+            if container == None:
+                return discount_price, discount_price
+            container = container.find("p",{"class": "mlt-promo"})
+            if container == None:
+                return discount_price, discount_price
+            print(container)
+            try:
+                o_price = container.find("span",{"class":"was-price"})
+                contentHTML = str(o_price)
+                print(contentHTML)
+                skip_String = "View Price in Cart"
+                key = "$"
+                if contentHTML != None and skip_String in contentHTML:
+                    return discount_price, discount_price
+                closing_tag = "</span>"
+                contentHTML = contentHTML[0: contentHTML.index(closing_tag) + len(closing_tag)]
+                original_price_start = contentHTML.rindex(key)+len(key)
+                original_price_end = contentHTML.find(closing_tag, original_price_start)
+                original_price = contentHTML[original_price_start:original_price_end]
+            except IOError:
+                print(IOError)
+        except IOError:
+            print("no original price")
+            print(IOError)
+        print(original_price)
     except IOError:
         print(IOError)
-    print(o_price)
-    return discount_price, o_price
+    return discount_price, original_price
 
 def loading_stuff(driver, no_next, scroll, count):
     if no_next == 1:
