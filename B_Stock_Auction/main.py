@@ -21,17 +21,17 @@ costco = 3
 '''
 URLS_INDEX = 0
 
-bestbuy_page_begin = 7175+1
-bestbuy_page_end = 7228
+bestbuy_page_begin = 7314+1
+bestbuy_page_end = 7369
 
-lowes_page_begin = 6400+1
-lowes_page_end = 6431
+lowes_page_begin = 6458+1
+lowes_page_end = 6499
 
-almo_page_begin = 4776+1
-almo_page_end = 4798
+almo_page_begin = 4823+1
+almo_page_end = 4837
 
-costco_page_begin = 18244+1
-costco_page_end = 18408
+costco_page_begin = 18877+1
+costco_page_end = 19076
 
 item_running = []
 item_without_money = []
@@ -60,9 +60,6 @@ def driver_login(driver):
     time.sleep(2)
     driver.find_element("id", 'loginId').send_keys(username)
     driver.find_element("id", 'password').send_keys(password)
-
-    # driver.find_element_by_id("loginId").send_keys(username)
-    # driver.find_element_by_id("password").send_keys(password)
     driver.find_element("xpath","//button[@type='submit']").click()
     time.sleep(1)
 
@@ -261,14 +258,15 @@ def move_picture(path, pic_len):
         shutil.move(old_dir, path)
 
 def start_crawling(page_begin, page_end, market):
-    d = create_column_title(titles)
-    # driver = webdriver.Chrome(executable_path="C:/Users/lsy/Downloads/chromedriver_win32/chromedriver.exe")
+    d = create_column_title(titles) 
+    chromdriverPath = 'C:/Users/lsy/Downloads/chromedriver_win32/chromedriver.exe'
     options = webdriver.ChromeOptions()
-    s=Service('C:/Users/lsy/Downloads/chromedriver_win32/chromedriver.exe')
-    driver = webdriver.Chrome(service=s, options = options)
+    options.add_argument("--no-sandbox")
 
+    s=Service(chromdriverPath)
+    driver = webdriver.Chrome(service=s, options = options)
+    
     driver_login(driver)
-    # decrpytion_failed_list = [7195]
     
     # for page in decrpytion_failed_list:
     for page in range(page_begin, page_end):
