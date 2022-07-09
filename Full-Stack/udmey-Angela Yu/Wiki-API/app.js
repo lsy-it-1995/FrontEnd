@@ -18,15 +18,112 @@ const articleSchema = {
 
 const Article = mongoose.model("Article", articleSchema);
 
-app.get("/articles", function(req, res){
-    Article.find(function(err, foundArticle){
-        if(!err){
-            res.send(foundArticle);
-        }else{
-            console.log(err);
-        }
+// app.get("/articles", function(req, res){
+//     Article.find(function(err, foundArticle){
+//         if(!err){
+//             res.send(foundArticle);
+//         }else{
+//             console.log(err);
+//         }
+//     });
+// });
+
+// app.post("/articles", function(req, res){
+//     const data = new Article({
+//         title: req.body.title,
+//         content: req.body.content
+//     });
+//     data.save(function(err){
+//         if(!err){
+//             res.send("Success");
+//         }else{
+//             res.send(err);
+//         }
+//     });
+
+// });
+
+// app.delete("/articles", function(req, res){
+//     Article.deleteMany({}, function(err){
+//         if(!err){
+//             res.send("Delete success");
+//         }else{
+//             res.send(err);
+//         }
+//     });
+// });
+///////////////////////////////////Requests for all articles///////////////////////////////////
+app.route("/articles")
+    .get(function(req, res){
+        Article.find(function(err, foundArticle){
+            if(!err){
+                res.send(foundArticle);
+            }else{
+                console.log(err);
+            }
+        });
+    })
+
+    .post(function(req, res){
+        const data = new Article({
+            title: req.body.title,
+            content: req.body.content
+        });
+        data.save(function(err){
+            if(!err){
+                res.send("Success");
+            }else{
+                res.send(err);
+            }
+        });
+    
+    })
+
+    .delete(function(req, res){
+        Article.deleteMany({}, function(err){
+            if(!err){
+                res.send("Delete success");
+            }else{
+                res.send(err);
+            }
+        });
     });
-});
+///////////////////////////////////End Requests for all articles///////////////////////////////////
+
+
+/////////////////////////////////// Requests for an article///////////////////////////////////
+
+app.route("/articles/:articleTitle")
+    .get(function(req, res){
+        Article.findOne({title: req.params.articleTitle}, function(err, foundArticle){
+            if (foundArticle) {
+                res.send(foundArticle);
+            } else {
+                res.send("No articles matching that title was found.");
+            }
+        });
+    })
+    .put(function(req, res){
+        const query = {title: req.params.articleTitle}
+        const updateValue = {title: req.body.title, content: req.body.content};
+        const option = {overwrite: true};
+        Article.replaceOne(query, updateValue, option, function(err,result){
+              if(!err){
+                res.send("Successfully updated the selected article.");
+              }else{
+                res.send(err);
+              }
+            }
+          );
+    });
+
+    // .post(function(req, res){
+
+    // })
+    
+    // .delete(function(req, res){
+
+    // });
 
 
 app.listen(3000, function(){
