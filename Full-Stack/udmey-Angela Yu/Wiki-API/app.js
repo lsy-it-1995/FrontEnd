@@ -95,7 +95,8 @@ app.route("/articles")
 
 app.route("/articles/:articleTitle")
     .get(function(req, res){
-        Article.findOne({title: req.params.articleTitle}, function(err, foundArticle){
+        const query = {title: req.params.articleTitle};
+        Article.findOne(query, function(err, foundArticle){
             if (foundArticle) {
                 res.send(foundArticle);
             } else {
@@ -104,7 +105,7 @@ app.route("/articles/:articleTitle")
         });
     })
     .put(function(req, res){
-        const query = {title: req.params.articleTitle}
+        const query = {title: req.params.articleTitle};
         const updateValue = {title: req.body.title, content: req.body.content};
         const option = {overwrite: true};
         Article.replaceOne(query, updateValue, option, function(err,result){
@@ -115,15 +116,30 @@ app.route("/articles/:articleTitle")
               }
             }
           );
-    });
+    })
 
-    // .post(function(req, res){
-
-    // })
+    .patch(function(req, res){
+        const query = {title: req.params.articleTitle};
+        const updateValue = {title: req.body.title, content: req.body.content};
+        Article.findOneAndUpdate(query, updateValue, function(err){
+            if(!err){
+                res.send("success update patch");
+            }else{
+                res.send(err)
+            }
+        });
+    })
     
-    // .delete(function(req, res){
-
-    // });
+    .delete(function(req, res){
+        const query = {title: req.params.articleTitle};
+        Article.deleteOne(query, function(err){
+            if(!err){
+                res.send("success update delete");
+            }else{
+                res.send(err)
+            }
+        });
+    });
 
 
 app.listen(3000, function(){

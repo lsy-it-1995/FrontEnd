@@ -248,7 +248,7 @@ def get_pictures(soup, path):
                 f.write(r.content)
             index += 1
     except Exception as e:
-        print("index error: " + str(e) + str(index));
+        print("index error: " + str(e) + str(index))
     return index
 
 def move_picture(path, pic_len):
