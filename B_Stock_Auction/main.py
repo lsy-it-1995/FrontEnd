@@ -5,6 +5,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium import webdriver
 from constant import *
 import pandas as pd
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 import yaml
 import time
@@ -12,7 +13,13 @@ import os
 import shutil
 import glob
 from pyvirtualdisplay import Display
-
+from selenium.webdriver.edge.service import Service as EdgeService
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 '''
 bestbuy = 0
 lowes = 1
@@ -22,16 +29,16 @@ costco = 3
 URLS_INDEX = 0
 
 bestbuy_page_begin = 7314+1
-bestbuy_page_end = 7369
+bestbuy_page_end = 7402
 
 lowes_page_begin = 6458+1
-lowes_page_end = 6499
+lowes_page_end = 6505
 
 almo_page_begin = 4823+1
-almo_page_end = 4837
+almo_page_end = 4845
 
 costco_page_begin = 18877+1
-costco_page_end = 19076
+costco_page_end = 19226
 
 item_running = []
 item_without_money = []
@@ -40,10 +47,10 @@ text_not_found = []
 
 def manifest_download(driver, path):
     os.chdir(path)
-    button = driver.find_element_by_id("manifest-download-btn-top")
+    button = driver.find_element(By.ID, "manifest-download-btn-top")
     button.click()
 def move_manifest(folder_path, market, id):
-    path = r"C:/Users/lst/Downloads/"
+    path = r"C:/Users/lsy/Downloads/"
     extension = '\*csv'
     os.chdir(path)
     files = glob.glob(path+extension)
@@ -257,22 +264,40 @@ def move_picture(path, pic_len):
         old_dir = "C:/Users/lsy/Desktop/WebApps/B_Stock_Auction/"+png_name
         shutil.move(old_dir, path)
 
-def start_crawling(page_begin, page_end, market):
-    d = create_column_title(titles) 
+def get_webdriver():
+    """Get whatever webdriver is availiable in the system.
+    webdriver_manager and selenium are currently being used for this.
+    Supported browsers:[Firefox, Chrome, Opera, Microsoft Edge, Internet Expolorer]
+    Returns:
+            a webdriver that can be used for scraping. Returns None if we don't find a supported webdriver.
+
+    """
     chromdriverPath = 'C:/Users/lsy/Downloads/chromedriver_win32/chromedriver.exe'
     options = webdriver.ChromeOptions()
     options.add_argument("--no-sandbox")
-
     s=Service(chromdriverPath)
-    driver = webdriver.Chrome(service=s, options = options)
+    try:
+        # driver = webdriver.Chrome(ChromeDriverManager().install(),chrome_options=options)
+        driver = webdriver.Chrome(service=s, options = options)
+    except Exception:
+        try:
+            driver = webdriver.Edge(EdgeChromiumDriverManager().install())
+        except Exception:
+            driver = None
+    return driver
+
+def start_crawling(page_begin, page_end, market):
+    d = create_column_title(titles) 
+
     
+    driver = get_webdriver()
     driver_login(driver)
-    
-    # for page in decrpytion_failed_list:
+    delay_wait = 5
     for page in range(page_begin, page_end):
         url = inventory_URLS[URLS_INDEX]+ str(page)
         try:
             driver.get(url)
+            driver.implicitly_wait(delay_wait)
             html = driver.page_source
             soup = BeautifulSoup(html, "html.parser")
             auction_time_remain = auction_time_name(soup)
