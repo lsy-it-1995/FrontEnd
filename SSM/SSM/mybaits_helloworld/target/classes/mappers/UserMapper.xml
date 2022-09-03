@@ -7,4 +7,10 @@
     <insert id="insertUser">
         insert into t_user values(null, 'admin', '123456', 23, 'male', '123@gmail.com')
     </insert>
+    <update id="updateUser">
+        update t_user set username='root',  password = '123' where id = 2
+    </update>
+    <delete id="deleteUser">
+        delete from t_user where id = 3
+    </delete>
 </mapper>
