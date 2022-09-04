@@ -10,6 +10,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.junit.Test;
 
 import java.io.InputStream;
+import java.util.List;
 import java.util.logging.Logger;
 
 public class test {
@@ -44,6 +45,24 @@ public class test {
         SqlSession sqlSession = SqlSessionUtils.getSession();
         UserMapper mapper = sqlSession.getMapper(UserMapper.class);
         mapper.deleteUser();
+        sqlSession.close();
+    }
+
+    @Test
+    public void testGetUserById(){
+        SqlSession sqlSession = SqlSessionUtils.getSession();
+        UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
+        User user = userMapper.getUserbById();
+        System.out.println(user);
+        sqlSession.close();
+    }
+
+    @Test
+    public void testGetAllUser(){
+        SqlSession sqlSession = SqlSessionUtils.getSession();
+        UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
+        List<User> list = userMapper.getAllUser();
+        list.forEach(System.out::println);
         sqlSession.close();
     }
 }

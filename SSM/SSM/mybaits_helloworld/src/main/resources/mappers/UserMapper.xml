@@ -13,4 +13,10 @@
     <delete id="deleteUser">
         delete from t_user where id = 3
     </delete>
+    <select id="getUserbById" resultType="User">
+        select * from t_user where id = 1
+    </select>
+    <select id="getAllUser" resultType="User">
+        select * from t_user
+    </select>
 </mapper>
