@@ -30,6 +30,7 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource="mappers/UserMapper.xml"/>
+<!--        <mapper resource="mappers/UserMapper.xml"/>-->
+        <package name="com.lsy.mybaits.mapper"/>
     </mappers>
 </configuration>
