@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lsy.mybaits.mapper.UserMapper">
+
+    <!--User getUserByUsername(String username);-->
+    <select id="getUserByUsername" resultType="User">
+<!--        select *-->
+<!--        from t_user-->
+<!--        where username = #{username}-->
+        select *
+        from t_user
+        where username = '${username}'
+    </select>
+
+<!--    User login(String username, String password);-->
+    <select id="login" resultType="User">
+            select *
+            from t_user
+            where username = #{arg0} and password = #{arg1}
+    </select>
+<!--    User loginByParams(@Param("username") String username, @Param("password") String password);-->
+    <select id="loginByParams" resultType="User">
+        select *
+        from t_user
+        where username = #{username} and password = #{password}
+    </select>
+
+<!--    Map<String, Object> getUserByMap(@Param("username") Integer id);-->
+    <select id="getUserByMap" resultType="map">
+        select *
+        from t_user
+        where id = #{id}
+    </select>
+
+<!--    List<Map<String, Object>> getAllUserByMap();-->
+    <select id="getAllUserByMap" resultType="map">
+        select *
+        from t_user
+    </select>
+
+<!--    Map<String, Object> getUserByMapKey();-->
+    <select id="getUserByMapKey" resultType="map">
+        select *
+        from t_user
+    </select>
+
+    <!--    List<User> getUserByLiek(@Param("mohu") String mohu);-->
+    <select id="getUserByLike" resultType="User">
+<!--        select *-->
+<!--        from t_user-->
+<!--        where username like '%${mohu}%'-->
+
+<!--        select *-->
+<!--        from t_user-->
+<!--        where username like concat('%', #{mohu}, '%')-->
+        select *
+        from t_user
+        where username like "%"#{mohu}"%"
+    </select>
+</mapper>
