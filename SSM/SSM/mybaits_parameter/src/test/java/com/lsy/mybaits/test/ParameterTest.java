@@ -61,4 +61,26 @@ public class ParameterTest {
         List<User> users = mapper.getUserByLike("a");
         users.forEach(System.out::println);
     }
+
+    @Test
+    public void testDeleteUsers(){
+        SqlSession sqlSession = SqlSessionUtils.getSession();
+        UserMapper mapper = sqlSession.getMapper(UserMapper.class);
+        mapper.deleteUsers("5,7");
+    }
+
+    @Test
+    public void testTable(){
+        SqlSession sqlSession = SqlSessionUtils.getSession();
+        UserMapper mapper = sqlSession.getMapper(UserMapper.class);
+        List<User> table = mapper.getUsersTableName("t_user");
+        table.forEach(System.out::println);
+    }
+    @Test
+    public void testInsertUser(){
+        SqlSession sqlSession = SqlSessionUtils.getSession();
+        UserMapper mapper = sqlSession.getMapper(UserMapper.class);
+        User user = new User(null, "testing", "test123", 2,"male", "ssss@gmail.com");
+        mapper.insertUser(user);
+    }
 }

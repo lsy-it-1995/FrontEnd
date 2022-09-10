@@ -24,4 +24,10 @@ public interface UserMapper {
     List<Map<String, Object>> getAllUserByMap();
 
     List<User> getUserByLike(@Param("mohu") String mohu);
+
+    void deleteUsers(@Param("ids") String ids);
+
+    List<User> getUsersTableName(@Param("table") String table);
+
+    void insertUser(User user);
 }

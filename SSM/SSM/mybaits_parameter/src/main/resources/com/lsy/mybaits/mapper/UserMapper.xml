@@ -59,4 +59,23 @@
         from t_user
         where username like "%"#{mohu}"%"
     </select>
+
+<!--    void deleteUsers(@Param("ids") String ids);-->
+    <delete id="deleteUsers">
+        delete
+        from t_user
+        where id in (${ids})
+    </delete>
+
+<!--    List<User> getUsersTableName(@Param("table") String table);-->
+    <select id="getUsersTableName" resultType="User">
+        select *
+        from ${table}
+    </select>
+
+<!--    void insertUser(User user);-->
+    <insert id="insertUser" useGeneratedKeys="true" keyProperty="id">
+        insert into
+        t_user values(null, #{username}, #{password}, #{age}, #{gender}, #{email})
+    </insert>
 </mapper>
