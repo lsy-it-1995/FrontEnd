@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mybaits_parameter" />
         <module name="mybaits_helloworld" />
+        <module name="mybaits_resultMap" />
       </profile>
     </annotationProcessing>
   </component>

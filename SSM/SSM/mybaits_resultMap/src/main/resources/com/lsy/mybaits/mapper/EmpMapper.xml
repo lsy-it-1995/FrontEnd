@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lsy.mybaits.mapper.EmpMapper">
+
+    <resultMap id="empResultMap" type="Emp">
+        <id column="emp_id" property="empId"></id>
+        <result column="emp_name" property="empName"></result>
+        <result column="age" property="age"></result>
+        <result column="gender" property="gender"></result>
+    </resultMap>
+
+
+
+<!--    Emp getEmpById(@Param("empId") Integer empId);-->
+    <select id="getEmpById" resultMap="empResultMap">
+        select *
+        from t_emp
+        where emp_id = #{empId}
+    </select>
+<!--    <select id="getEmpById" resultType="Emp">-->
+<!--        select *-->
+<!--        from t_emp-->
+<!--        where emp_id = #{empId}-->
+<!--    </select>-->
+
+
+    <resultMap id="empDeptResultMap" type="Emp">
+        <id column="emp_id" property="empId"></id>
+        <result column="emp_name" property="empName"></result>
+        <result column="age" property="age"></result>
+        <result column="gender" property="gender"></result>
+<!--        <result column="dept_id" property="dept.deptId"></result>-->
+<!--        <result column="dept_name" property="dept.deptName"></result>-->
+
+<!--        <association property="dept" javaType="Dept">-->
+<!--            <id column="dept_id" property="deptId"></id>-->
+<!--            <result column = "dept_name" property="deptName"></result>-->
+<!--        </association>-->
+
+        <association property="dept" select="com.lsy.mybaits.mapper.DeptMapper.getDeptById" column="dept_id">
+
+        </association>
+    </resultMap>
+
+<!--    Emp getEmpAndDeptById(@Param("empId") Integer empId);-->
+    <select id="getEmpAndDeptById" resultMap="empDeptResultMap">
+        select t_emp.*, t_dept.*
+        from t_emp left join t_dept
+        on t_emp.dept_id = t_dept.dept_id
+        where emp_id = #{empId};
+    </select>
+</mapper>

@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/mybaits_helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/mybaits_parameter/pom.xml" />
+        <option value="$PROJECT_DIR$/mybaits_resultMap/pom.xml" />
       </list>
     </option>
   </component>
