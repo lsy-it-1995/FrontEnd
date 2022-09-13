@@ -51,4 +51,11 @@
         on t_emp.dept_id = t_dept.dept_id
         where emp_id = #{empId};
     </select>
+
+<!--    List<Emp> getEmpByDeptId(@Param("deptId") Integer deptId);-->
+    <select id="getEmpByDeptId" resultType="Emp">
+        select *
+        from t_emp
+        where dept_id = #{deptId};
+    </select>
 </mapper>
