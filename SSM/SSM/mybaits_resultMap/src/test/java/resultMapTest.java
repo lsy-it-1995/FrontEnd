@@ -1,10 +1,13 @@
 import com.lsy.mybaits.mapper.DeptMapper;
+import com.lsy.mybaits.mapper.DynamicSQLMapper;
 import com.lsy.mybaits.mapper.EmpMapper;
 import com.lsy.mybaits.pojo.Dept;
 import com.lsy.mybaits.pojo.Emp;
 import com.lsy.mybaits.utils.SqlSessionUtils;
 import org.apache.ibatis.session.SqlSession;
 import org.junit.Test;
+
+import java.util.List;
 
 public class resultMapTest {
     @Test
@@ -38,7 +41,15 @@ public class resultMapTest {
 //        Dept dept = mapper.getDeptAndEmpByDeptID(1);
         Dept dept = mapper.getDeptAndEmpByDeptIdStep(1);
         System.out.println(dept);
+    }
 
-
+    @Test
+    public void getGetEmpByCondition(){
+        SqlSession sqlSession = SqlSessionUtils.getSession();
+        DynamicSQLMapper mapper = sqlSession.getMapper(DynamicSQLMapper.class);
+//        Dept dept = mapper.getDeptAndEmpByDeptID(1);
+        Emp emp = new Emp(null, "six", 26, "f");
+        List<Emp> list = mapper.getEmpByCondition(emp);
+        list.forEach(System.out::println);
     }
 }
