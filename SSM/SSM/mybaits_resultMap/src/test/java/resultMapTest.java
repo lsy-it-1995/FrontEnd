@@ -50,7 +50,9 @@ public class resultMapTest {
         SqlSession sqlSession = SqlSessionUtils.getSession();
         DynamicSQLMapper mapper = sqlSession.getMapper(DynamicSQLMapper.class);
         Emp emp = new Emp(null, "", 26, "f");
-        List<Emp> list = mapper.getEmpByConditionChoose(emp);
+        List<Emp> list = mapper.getEmpByCondition(emp);
+
+//        List<Emp> list = mapper.getEmpByConditionChoose(emp);
         list.forEach(System.out::println);
     }
 
