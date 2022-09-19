@@ -7,6 +7,8 @@ import com.lsy.mybaits.utils.SqlSessionUtils;
 import org.apache.ibatis.session.SqlSession;
 import org.junit.Test;
 
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class resultMapTest {
@@ -47,9 +49,27 @@ public class resultMapTest {
     public void getGetEmpByCondition(){
         SqlSession sqlSession = SqlSessionUtils.getSession();
         DynamicSQLMapper mapper = sqlSession.getMapper(DynamicSQLMapper.class);
-//        Dept dept = mapper.getDeptAndEmpByDeptID(1);
-        Emp emp = new Emp(null, "six", 26, "f");
-        List<Emp> list = mapper.getEmpByCondition(emp);
+        Emp emp = new Emp(null, "", 26, "f");
+        List<Emp> list = mapper.getEmpByConditionChoose(emp);
         list.forEach(System.out::println);
+    }
+
+    @Test
+    public void getInsertMultipleEmp(){
+        SqlSession sqlSession = SqlSessionUtils.getSession();
+        DynamicSQLMapper mapper = sqlSession.getMapper(DynamicSQLMapper.class);
+        Emp emp1 = new Emp(null, "abc", 25, "m");
+        Emp emp2 = new Emp(null, "abc", 25, "m");
+        Emp emp3 = new Emp(null, "abc", 25, "m");
+        List<Emp> list = Arrays.asList(emp1, emp2, emp3);
+        mapper.insertMultipleEmp(list);
+    }
+
+    @Test
+    public void getDeletEmpIds(){
+        SqlSession sqlSession = SqlSessionUtils.getSession();
+        DynamicSQLMapper mapper = sqlSession.getMapper(DynamicSQLMapper.class);
+        Integer[] list = new Integer[]{10,11};
+        mapper.deleteMultipleEmp(list);
     }
 }
