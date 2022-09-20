@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mybaits_parameter" />
+        <module name="mybatis_mbg" />
         <module name="mybaits_helloworld" />
         <module name="mybaits_resultMap" />
       </profile>
