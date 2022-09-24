@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/mybaits_parameter/pom.xml" />
         <option value="$PROJECT_DIR$/mybaits_resultMap/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis_mbg/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ioc_xml/pom.xml" />
       </list>
     </option>
   </component>

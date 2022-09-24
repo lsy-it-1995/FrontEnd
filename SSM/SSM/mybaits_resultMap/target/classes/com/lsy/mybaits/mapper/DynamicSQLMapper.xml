@@ -4,6 +4,7 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.lsy.mybaits.mapper.DynamicSQLMapper">
 
+    <cache type="org.mybatis.caches.ehcache.EhcacheCache"/>
     <sql id="empColumns">
         emp_id, emp_name, age, gender, dept_id
     </sql>
@@ -82,4 +83,6 @@
             emp_id = #{empId}
         </foreach>
     </delete>
+
+
 </mapper>

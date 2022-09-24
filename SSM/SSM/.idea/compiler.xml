@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring_helloworld" />
         <module name="mybaits_parameter" />
         <module name="mybatis_mbg" />
         <module name="mybaits_helloworld" />
         <module name="mybaits_resultMap" />
+        <module name="spring_ioc_xml" />
       </profile>
     </annotationProcessing>
   </component>
